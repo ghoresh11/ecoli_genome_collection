@@ -1,0 +1,706 @@
+
+1. Enterohemorrhagic Escherichia coli
+Organism: Escherichia coli O157:H7 str. EDL933 (Taxonomy ID 155864)
+BioProject Accession: PRJNA259
+ID: 259
+
+2. Uropathogenic Escherichia coli
+Organism: Escherichia coli CFT073 (Taxonomy ID 199310)
+BioProject Accession: PRJNA313
+ID: 313
+
+3. Human-specific pathogen that causes endemic dysentery
+Organism: Shigella flexneri 2a str. 2457T (Taxonomy ID 198215)
+BioProject Accession: PRJNA408
+ID: 408
+
+4. Human-specific pathogen that causes endemic dysentery.
+Organism: Shigella dysenteriae Sd197 (Taxonomy ID 300267)
+BioProject Accession: PRJNA13145
+ID: 13145
+
+5. Primary agent of dysentery in industrialized countries.
+Organism: Shigella sonnei Ss046 (Taxonomy ID 300269)
+BioProject Accession: PRJNA13151
+ID: 13151
+
+6. Colonizes human gastrointestinal tract but does not cause disease
+Organism: Escherichia coli HS (Taxonomy ID 331112)
+BioProject Accession: PRJNA13959
+ID: 13959
+
+7. Enterotoxigenic Escherichia coli
+Organism: Escherichia coli O139:H28 str. E24377A (Taxonomy ID 331111)
+BioProject Accession: PRJNA13960
+ID: 13960
+
+8. Enteropathogenic Escherichia coli
+Organism: Escherichia coli E22 (Taxonomy ID 340185)
+BioProject Accession: PRJNA15577
+ID: 15577
+
+9. Atypical enteropathogenic Escherichia coli
+Organism: Escherichia coli E110019 (Taxonomy ID 340186)
+BioProject Accession: PRJNA15578
+ID: 15578
+
+10. Member of EPEC2 subgroup
+Organism: Escherichia coli B171 (Taxonomy ID 344601)
+BioProject Accession: PRJNA15630
+ID: 15630
+
+11. Serotype 18 Group 1 strain
+Organism: Shigella boydii CDC 3083-94 (Taxonomy ID 344609)
+BioProject Accession: PRJNA15637
+ID: 15637
+
+12. Enteroinvasive strain of Escherichia coli
+Organism: Escherichia coli 53638 (Taxonomy ID 344610)
+BioProject Accession: PRJNA15639
+ID: 15639
+
+13. Uropathogenic strain
+Organism: Escherichia coli 536 (Taxonomy ID 362663)
+BioProject Accession: PRJNA16235
+ID: 16235
+
+14. Uropathogenic strain
+Organism: Escherichia coli UTI89 (Taxonomy ID 364106)
+BioProject Accession: PRJNA16259
+ID: 16259
+
+15. Reference sequence for Human Microbiome Project
+Organism: Escherichia coli SE11 (Taxonomy ID 409438)
+BioProject Accession: PRJNA18057
+ID: 18057
+
+16. A strain of E. coli lacking the major porin OmpC
+Organism: Escherichia coli ATCC 8739 (Taxonomy ID 481805)
+BioProject Accession: PRJNA18083
+ID: 18083
+
+17. Antibiotic resistant strain
+Organism: Escherichia coli SMS-3-5 (Taxonomy ID 439855)
+BioProject Accession: PRJNA19469
+ID: 19469
+
+18. Enterohemorrhagic isolate
+Organism: Escherichia coli O157:H7 str. EC4115 (Taxonomy ID 444450)
+BioProject Accession: PRJNA27739
+ID: 27739
+
+19. Isolated from spinach in the western United States in 2006
+Organism: Escherichia coli O157:H7 str. TW14359 (Taxonomy ID 544404)
+BioProject Accession: PRJNA30045
+ID: 30045
+
+20. Common laboratory strain used for recombinant protein expression.
+Organism: Escherichia coli 'BL21-Gold(DE3)pLysS AG' (Taxonomy ID 866768)
+BioProject Accession: PRJNA30681
+ID: 30681
+
+21. Enterohemorrhagic strain
+Organism: Escherichia coli O26:H11 str. 11368 (Taxonomy ID 573235)
+BioProject Accession: PRJDA32509
+ID: 32509
+
+22. This strain will be used for comparative genome analysis
+Organism: Escherichia coli O103:H2 str. 12009 (Taxonomy ID 585395)
+BioProject Accession: PRJDA32511
+ID: 32511
+
+23. This strain will be used for comparative genome analysis
+Organism: Escherichia coli O111:H- str. 11128 (Taxonomy ID 585396)
+BioProject Accession: PRJDA32513
+ID: 32513
+
+24. Enteropathogenic strain
+Organism: Escherichia coli O127:H6 str. E2348/69 (Taxonomy ID 574521)
+BioProject Accession: PRJEA32571
+ID: 32571
+
+25. Avirulent strain
+Organism: Escherichia coli IAI1 (Taxonomy ID 585034)
+BioProject Accession: PRJNA33373
+ID: 33373
+
+26. Meningitis isolate
+Organism: Escherichia coli S88 (Taxonomy ID 585035)
+BioProject Accession: PRJNA33375
+ID: 33375
+
+27. Urinary tract infection isolate
+Organism: Escherichia coli IAI39 (Taxonomy ID 585057)
+BioProject Accession: PRJNA33411
+ID: 33411
+
+28. Diarrhea-associated isolate
+Organism: Escherichia coli 55989 (Taxonomy ID 585055)
+BioProject Accession: PRJNA33413
+ID: 33413
+
+29. Urinary tract infection isolate
+Organism: Escherichia coli UMN026 (Taxonomy ID 585056)
+BioProject Accession: PRJNA33415
+ID: 33415
+
+30. Well-studied laboratory strain
+Organism: Escherichia coli BW2952 (Taxonomy ID 595496)
+BioProject Accession: PRJNA33775
+ID: 33775
+
+31. Escherichia coli EPECa14 genome sequencing project
+Organism: Escherichia coli EPECa14 (Taxonomy ID 670893)
+BioProject Accession: PRJNA40267
+ID: 40267
+
+32. Escherichia coli E128010 genome sequencing project
+Organism: Escherichia coli E128010 (Taxonomy ID 670894)
+BioProject Accession: PRJNA40269
+ID: 40269
+
+33. Escherichia coli EPEC11 Genome sequencing
+Organism: Escherichia coli EPEC11 (Taxonomy ID 670895)
+BioProject Accession: PRJNA40271
+ID: 40271
+
+34. Escherichia coli E851/71 Genome sequencing
+Organism: Escherichia coli E851/71 (Taxonomy ID 670898)
+BioProject Accession: PRJNA40277
+ID: 40277
+
+35. Escherichia coli RN587/1 genome sequencing project
+Organism: Escherichia coli RN587/1 (Taxonomy ID 670899)
+BioProject Accession: PRJNA40279
+ID: 40279
+
+36. Escherichia coli OK1180 Genome sequencing and assembly
+Organism: Escherichia coli OK1180 (Taxonomy ID 670904)
+BioProject Accession: PRJNA40289
+ID: 40289
+
+37. Escherichia coli 042 genome sequencing project
+Organism: Escherichia coli 042 (Taxonomy ID 216592)
+BioProject Accession: PRJEA40647
+ID: 40647
+
+38. Escherichia coli O55:H7 str. CB9615 genome project
+Organism: Escherichia coli O55:H7 str. CB9615 (Taxonomy ID 701177)
+BioProject Accession: PRJNA42729
+ID: 42729
+
+39. Escherichia coli ETEC H10407 genome sequencing project
+Organism: Escherichia coli ETEC H10407 (Taxonomy ID 316401)
+BioProject Accession: PRJEA42749
+ID: 42749
+
+40. Escherichia coli STEC_H.1.8 genome sequencing project
+Organism: Escherichia coli STEC_H.1.8 (Taxonomy ID 754088)
+BioProject Accession: PRJNA48281
+ID: 48281
+
+41. Escherichia coli DEC1A genome sequencing project
+Organism: Escherichia coli DEC1A (Taxonomy ID 868133)
+BioProject Accession: PRJNA50903
+ID: 50903
+
+42. Escherichia coli DEC1B genome sequencing project
+Organism: Escherichia coli DEC1B (Taxonomy ID 868134)
+BioProject Accession: PRJNA50905
+ID: 50905
+
+43. Escherichia coli DEC1C genome sequencing project
+Organism: Escherichia coli DEC1C (Taxonomy ID 868135)
+BioProject Accession: PRJNA50907
+ID: 50907
+
+44. Escherichia coli DEC1D genome sequencing project
+Organism: Escherichia coli DEC1D (Taxonomy ID 868136)
+BioProject Accession: PRJNA50909
+ID: 50909
+
+45. Escherichia coli DEC1E genome sequencing project
+Organism: Escherichia coli DEC1E (Taxonomy ID 868137)
+BioProject Accession: PRJNA50911
+ID: 50911
+
+46. Escherichia coli DEC2A genome sequencing project
+Organism: Escherichia coli DEC2A (Taxonomy ID 868138)
+BioProject Accession: PRJNA50913
+ID: 50913
+
+47. Escherichia coli DEC2C genome sequencing project
+Organism: Escherichia coli DEC2C (Taxonomy ID 868140)
+BioProject Accession: PRJNA50917
+ID: 50917
+
+48. Escherichia coli DEC2D genome sequencing project
+Organism: Escherichia coli DEC2D (Taxonomy ID 868141)
+BioProject Accession: PRJNA50919
+ID: 50919
+
+49. Escherichia coli DEC2E genome sequencing project
+Organism: Escherichia coli DEC2E (Taxonomy ID 868142)
+BioProject Accession: PRJNA50921
+ID: 50921
+
+50. Escherichia coli DEC4A genome sequencing project
+Organism: Escherichia coli DEC4A (Taxonomy ID 868149)
+BioProject Accession: PRJNA50935
+ID: 50935
+
+
+51. Escherichia coli DEC4B genome sequencing project
+Organism: Escherichia coli DEC4B (Taxonomy ID 868150)
+BioProject Accession: PRJNA50937
+ID: 50937
+
+52. Escherichia coli DEC4C genome sequencing project
+Organism: Escherichia coli DEC4C (Taxonomy ID 868151)
+BioProject Accession: PRJNA50939
+ID: 50939
+
+53. Escherichia coli DEC4D genome sequencing project
+Organism: Escherichia coli DEC4D (Taxonomy ID 868152)
+BioProject Accession: PRJNA50941
+ID: 50941
+
+54. Escherichia coli DEC4E genome sequencing project
+Organism: Escherichia coli DEC4E (Taxonomy ID 868153)
+BioProject Accession: PRJNA50943
+ID: 50943
+
+55. Escherichia coli DEC5A genome sequencing project
+Organism: Escherichia coli DEC5A (Taxonomy ID 868155)
+BioProject Accession: PRJNA50947
+ID: 50947
+
+56. Escherichia coli DEC5B genome sequencing project
+Organism: Escherichia coli DEC5B (Taxonomy ID 868156)
+BioProject Accession: PRJNA50949
+ID: 50949
+
+57. Escherichia coli DEC5C genome sequencing project
+Organism: Escherichia coli DEC5C (Taxonomy ID 868157)
+BioProject Accession: PRJNA50951
+ID: 50951
+
+58. Escherichia coli DEC5D genome sequencing project
+Organism: Escherichia coli DEC5D (Taxonomy ID 868158)
+BioProject Accession: PRJNA50953
+ID: 50953
+
+59. Escherichia coli DEC5E genome sequencing project
+Organism: Escherichia coli DEC5E (Taxonomy ID 868159)
+BioProject Accession: PRJNA50955
+ID: 50955
+
+60. Escherichia coli DEC9A genome sequencing project
+Organism: Escherichia coli DEC9A (Taxonomy ID 868175)
+BioProject Accession: PRJNA50989
+ID: 50989
+
+61. Escherichia coli DEC9B genome sequencing project
+Organism: Escherichia coli DEC9B (Taxonomy ID 868176)
+BioProject Accession: PRJNA50991
+ID: 50991
+
+62. Escherichia coli DEC9C genome sequencing project
+Organism: Escherichia coli DEC9C (Taxonomy ID 868177)
+BioProject Accession: PRJNA50993
+ID: 50993
+
+63. Escherichia coli DEC9D genome sequencing project
+Organism: Escherichia coli DEC9D (Taxonomy ID 868178)
+BioProject Accession: PRJNA50995
+ID: 50995
+
+64. Escherichia coli DEC9E genome sequencing project
+Organism: Escherichia coli DEC9E (Taxonomy ID 868179)
+BioProject Accession: PRJNA50997
+ID: 50997
+
+65. Escherichia coli DEC11A genome sequencing project
+Organism: Escherichia coli DEC11A (Taxonomy ID 868186)
+BioProject Accession: PRJNA51011
+ID: 51011
+
+66. Escherichia coli DEC11B genome sequencing project
+Organism: Escherichia coli DEC11B (Taxonomy ID 868187)
+BioProject Accession: PRJNA51013
+ID: 51013
+
+67. Escherichia coli DEC11C genome sequencing project
+Organism: Escherichia coli DEC11C (Taxonomy ID 868188)
+BioProject Accession: PRJNA51015
+ID: 51015
+
+68. Escherichia coli DEC11D genome sequencing project
+Organism: Escherichia coli DEC11D (Taxonomy ID 868189)
+BioProject Accession: PRJNA51017
+ID: 51017
+
+69. Escherichia coli DEC11E genome sequencing project
+Organism: Escherichia coli DEC11E (Taxonomy ID 868190)
+BioProject Accession: PRJNA51019
+ID: 51019
+
+70. Escherichia coli DEC12A genome sequencing project
+Organism: Escherichia coli DEC12A (Taxonomy ID 868191)
+BioProject Accession: PRJNA51021
+ID: 51021
+
+71. Escherichia coli DEC12B genome sequencing project
+Organism: Escherichia coli DEC12B (Taxonomy ID 868192)
+BioProject Accession: PRJNA51023
+ID: 51023
+
+72. Escherichia coli DEC12C genome sequencing project
+Organism: Escherichia coli DEC12C (Taxonomy ID 868193)
+BioProject Accession: PRJNA51025
+ID: 51025
+
+73. Escherichia coli DEC12D genome sequencing project
+Organism: Escherichia coli DEC12D (Taxonomy ID 868194)
+BioProject Accession: PRJNA51027
+ID: 51027
+
+74. Escherichia coli DEC12E genome sequencing project
+Organism: Escherichia coli DEC12E (Taxonomy ID 868195)
+BioProject Accession: PRJNA51029
+ID: 51029
+
+75. Escherichia coli O157:H7 str. Sakai RefSeq Genome
+Organism: Escherichia coli O157:H7 str. Sakai (Taxonomy ID 83334)
+BioProject Accession: PRJNA57781
+ID: 57781
+
+76. Shigella dysenteriae Sd197 RefSeq Genome
+Organism: Shigella dysenteriae Sd197 (Taxonomy ID 300267)
+BioProject Accession: PRJNA58213
+ID: 58213
+
+77. Escherichia coli IAI39 RefSeq Genome
+Organism: Escherichia coli IAI39 (Taxonomy ID 585057)
+BioProject Accession: PRJNA59381
+ID: 59381
+
+78. Escherichia coli UMN026 RefSeq Genome
+Organism: Escherichia coli UMN026 (Taxonomy ID 585056)
+BioProject Accession: PRJNA62981
+ID: 62981
+
+79. Escherichia coli O104:H4 outbreak
+Organism: Escherichia coli O104:H4 (Taxonomy ID 1038927)
+BioProject Accession: PRJNA68275
+ID: 68275
+
+80. Genome of Paracoccus denitrificans Indian isolate
+Organism: Paracoccus denitrificans SD1 (Taxonomy ID 1051075)
+BioProject Accession: PRJNA68425
+ID: 68425
+
+81. Escherichia coli C1214_90 Genome sequencing and assembly
+Organism: Escherichia coli C1214_90 (Taxonomy ID 1124984)
+BioProject Accession: PRJNA78531
+ID: 78531
+
+82. Escherichia coli C1244_91 Genome sequencing and assembly
+Organism: Escherichia coli C1244_91 (Taxonomy ID 1124985)
+BioProject Accession: PRJNA78533
+ID: 78533
+
+83. Escherichia coli C12_92 Genome sequencing and assembly
+Organism: Escherichia coli C12_92 (Taxonomy ID 1124986)
+BioProject Accession: PRJNA78535
+ID: 78535
+
+84. Escherichia coli C154_11 Genome sequencing and assembly
+Organism: Escherichia coli C154_11 (Taxonomy ID 1124987)
+BioProject Accession: PRJNA78537
+ID: 78537
+
+85. Escherichia coli C155_11 Genome sequencing and assembly
+Organism: Escherichia coli C155_11 (Taxonomy ID 1124988)
+BioProject Accession: PRJNA78539
+ID: 78539
+
+86. Escherichia coli C157_11 Genome sequencing and assembly
+Organism: Escherichia coli C157_11 (Taxonomy ID 1124989)
+BioProject Accession: PRJNA78541
+ID: 78541
+
+87. Escherichia coli C161_11 Genome sequencing and assembly
+Organism: Escherichia coli C161_11 (Taxonomy ID 1127123)
+BioProject Accession: PRJNA79019
+ID: 79019
+
+88. Escherichia coli C170_11 Genome sequencing and assembly
+Organism: Escherichia coli C170_11 (Taxonomy ID 1127124)
+BioProject Accession: PRJNA79021
+ID: 79021
+
+89. Escherichia coli 8624 Genome sequencing and assembly
+Organism: Escherichia coli 8624 (Taxonomy ID 1127125)
+BioProject Accession: PRJNA79023
+ID: 79023
+
+90. Escherichia coli C213_10 Genome sequencing and assembly
+Organism: Escherichia coli C213_10 (Taxonomy ID 1127126)
+BioProject Accession: PRJNA79025
+ID: 79025
+
+91. Comparative genome analysis of enterotoxigenic E. coli strains isolates from infections of different clinical severity.
+Organism: Escherichia coli C2139_99 (Taxonomy ID 1126888)
+BioProject Accession: PRJNA79235
+ID: 79235
+
+92. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C238_91 (Taxonomy ID 1126889)
+BioProject Accession: PRJNA79237
+ID: 79237
+
+93. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C260_92 (Taxonomy ID 1126890)
+BioProject Accession: PRJNA79239
+ID: 79239
+
+94. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C262_10 (Taxonomy ID 1126891)
+BioProject Accession: PRJNA79241
+ID: 79241
+
+95. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C283_09 (Taxonomy ID 1126892)
+BioProject Accession: PRJNA79243
+ID: 79243
+
+96. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C295_10 (Taxonomy ID 1126893)
+BioProject Accession: PRJNA79245
+ID: 79245
+
+97. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C341_10 (Taxonomy ID 1126895)
+BioProject Accession: PRJNA79249
+ID: 79249
+
+98. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C343_08 (Taxonomy ID 1126896)
+BioProject Accession: PRJNA79251
+ID: 79251
+
+99. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C347_93 (Taxonomy ID 1126897)
+BioProject Accession: PRJNA79253
+ID: 79253
+
+100. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C353_09 (Taxonomy ID 1126898)
+BioProject Accession: PRJNA79255
+ID: 79255
+
+
+101. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C354_03B (Taxonomy ID 1126899)
+BioProject Accession: PRJNA79257
+ID: 79257
+
+102. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C40_11 (Taxonomy ID 1126900)
+BioProject Accession: PRJNA79259
+ID: 79259
+
+103. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C418_89 (Taxonomy ID 1126901)
+BioProject Accession: PRJNA79261
+ID: 79261
+
+104. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C458_10 (Taxonomy ID 1126902)
+BioProject Accession: PRJNA79263
+ID: 79263
+
+105. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C488_07 (Taxonomy ID 1126903)
+BioProject Accession: PRJNA79265
+ID: 79265
+
+106. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C496_10 (Taxonomy ID 1126904)
+BioProject Accession: PRJNA79267
+ID: 79267
+
+107. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C497_10 (Taxonomy ID 1126905)
+BioProject Accession: PRJNA79269
+ID: 79269
+
+108. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C527_94 (Taxonomy ID 1126906)
+BioProject Accession: PRJNA79271
+ID: 79271
+
+109. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C581_05 (Taxonomy ID 1126907)
+BioProject Accession: PRJNA79273
+ID: 79273
+
+110. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C58_11 (Taxonomy ID 1126908)
+BioProject Accession: PRJNA79275
+ID: 79275
+
+111. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C586_05 (Taxonomy ID 1126909)
+BioProject Accession: PRJNA79277
+ID: 79277
+
+112. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C639_08 (Taxonomy ID 1126911)
+BioProject Accession: PRJNA79281
+ID: 79281
+
+113. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C652_10 (Taxonomy ID 1126912)
+BioProject Accession: PRJNA79283
+ID: 79283
+
+114. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C654_09 (Taxonomy ID 1126913)
+BioProject Accession: PRJNA79285
+ID: 79285
+
+115. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C717_10 (Taxonomy ID 1126915)
+BioProject Accession: PRJNA79289
+ID: 79289
+
+116. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C725_88 (Taxonomy ID 1126916)
+BioProject Accession: PRJNA79291
+ID: 79291
+
+117. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C732_98 (Taxonomy ID 1126917)
+BioProject Accession: PRJNA79293
+ID: 79293
+
+118. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C743_03 (Taxonomy ID 1126918)
+BioProject Accession: PRJNA79295
+ID: 79295
+
+119. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C751_03 (Taxonomy ID 1126919)
+BioProject Accession: PRJNA79297
+ID: 79297
+
+120. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C78_09C (Taxonomy ID 1126921)
+BioProject Accession: PRJNA79301
+ID: 79301
+
+121. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C79_08 (Taxonomy ID 1126922)
+BioProject Accession: PRJNA79303
+ID: 79303
+
+122. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C792_92 (Taxonomy ID 1126923)
+BioProject Accession: PRJNA79305
+ID: 79305
+
+123. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C796_10 (Taxonomy ID 1126924)
+BioProject Accession: PRJNA79307
+ID: 79307
+
+124. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C799_92 (Taxonomy ID 1126925)
+BioProject Accession: PRJNA79309
+ID: 79309
+
+125. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C80_08 (Taxonomy ID 1126926)
+BioProject Accession: PRJNA79311
+ID: 79311
+
+126. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C807_09 (Taxonomy ID 1126927)
+BioProject Accession: PRJNA79313
+ID: 79313
+
+127. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C82_11 (Taxonomy ID 1126928)
+BioProject Accession: PRJNA79315
+ID: 79315
+
+128. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C824_10 (Taxonomy ID 1126929)
+BioProject Accession: PRJNA79317
+ID: 79317
+
+129. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C842_97 (Taxonomy ID 1126931)
+BioProject Accession: PRJNA79321
+ID: 79321
+
+130. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C844_97 (Taxonomy ID 1126932)
+BioProject Accession: PRJNA79323
+ID: 79323
+
+131. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C87_11 (Taxonomy ID 1126933)
+BioProject Accession: PRJNA79325
+ID: 79325
+
+132. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C887_10 (Taxonomy ID 1126934)
+BioProject Accession: PRJNA79327
+ID: 79327
+
+133. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C900_01 (Taxonomy ID 1126935)
+BioProject Accession: PRJNA79329
+ID: 79329
+
+134. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C93_11 (Taxonomy ID 1126936)
+BioProject Accession: PRJNA79331
+ID: 79331
+
+135. Comparative genome analysis of attaching and effacing E. coli
+Organism: Escherichia coli C9_92 (Taxonomy ID 1126937)
+BioProject Accession: PRJNA79333
+ID: 79333
+
+136. Escherichia coli C166_11 Genome sequencing and assembly
+Organism: Escherichia coli C166_11 (Taxonomy ID 1136137)
+BioProject Accession: PRJNA80973
+ID: 80973
+
+137. Escherichia coli OK1114 Genome sequencing and assembly
+Organism: Escherichia coli OK1114 (Taxonomy ID 1134453)
+BioProject Accession: PRJNA81127
+ID: 81127
+
+138. Escherichia coli K12 strain MC4100 reference genome (MYMC4100), tailored by adaptation of an existing reference (BW2952)
+Organism: Escherichia coli str. K-12 substr. MC4100 (Taxonomy ID 1403831)
+BioProject Accession: PRJEB4621
+ID: 222619
+
+139. Refseq Prokaryotic Genome Annotation Project
+BioProject Accession: PRJNA224116
+ID: 224116
+
+140. Two resequencing runs of the Escherichia coli UTI89 were performed for the purpose of testing software.
+BioProject Accession: PRJEB7805
+ID: 273254
+
+141. Whole genome sequencing of enterohemorrhagic Escherichia coli O157 to demonstrate the phylogeny and evolutionary groups
+Organism: Escherichia coli O157 (Taxonomy ID 1045010)
+BioProject Accession: PRJDB4016
+ID: 415239
+

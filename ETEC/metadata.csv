@@ -1,0 +1,374 @@
+﻿Isolate,Phylogroup,MLST,Lineage,O_antigen,Toxin,CF_profile,Year,Country,Continent,Subjet,Age,Diarrhea/Asymptomatic/Environmental
+E1535,A,2353,L1,O6,LT+STh,CS1+CS3+CS21,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1620,A,6,L1,O6,LT+STh,CS1+CS3+CS21,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1541,B1,173,L3,O78,STh,CFA/I+CS21,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1587,B1,173,L3,O78,STh,CFA/I+CS21,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1592,B1,173,L3,O128,LT,CS7,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1548,A,2332,L6,ON3,STh,CFA/I+CS21,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1604,A,2332,L6,ON3,STh,CFA/I+CS21,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1542,A,1303,L11,ON5,LT,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1556,A,731,L12,O15,LT,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1561,A,731,L12,O15,LT,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1596,A,731,L12,O15,LT,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1525,A,750,L13,OSB16,LT+STh,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1574,A,750,L13,OSB16,LT,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1580,A,165,L13,O160,LT+STp,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1581,A,10,L13,OSB16,LT,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1582,A,100,L13,O179,LT,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1585,A,3860,L13,O170,LT,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1600,A,100,L13,O112ab,LT,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1615,A,100,L13,O112ab,LT,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1532,A,10,L15,O159,LT,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1573,A,10,L15,O159,LT,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1594,A,10,L15,ON5,ST,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1524,A,n.i.,L16,n.i.,STh,CS14,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1526,A,23,L16,ON5,ST,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1607,A,23,L16,O78,LT,CS14,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1611,A,88,L16,O8 and O104,LT,CS6,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1576,B1,940,L20,O64,LT,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1564,A,609,L21,O9,LT,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1609,A,3861,L21,O8,LT,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1527,B1,7,,O128,STh,CS5+CS6,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1533,A,1494,,O9-like,LT+STp,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1534,B1,6,,ON5,ST,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1543,A,64,,OC14,STh,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1544,A,64,,OC14,STh,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1586,A,n.i.,,O9,LT+STp,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1593,B1,7,,O128,STh,CS5+CS6,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1597,D/E,4,,O7,LT+STp,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1599,B1,295,,ON5,ST,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1616,B1,101,,O93,LT,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E1617,D/E,4,,O7,LT+STp,CF NEG,1989,Argentina,South America,Indigenous,Child <5 yrs,D
+E8,A,2353,L1,O6,LT+STh,CS1+CS3,1980,Bangladesh,Asia,Indigenous,All ages,unknown
+E54,A,2353,L1,O6,LT+STh,CS1+CS3+CS21,1980,Bangladesh,Asia,Indigenous,All ages,D
+E1739,A,2353,L1,O6,LT+STh,CS1+CS3+CS21,2002,Bangladesh,Asia,Indigenous,All ages,D
+E1797,A,2353,L1,O6,LT+STh,CS1+CS3+CS21,2007,Bangladesh,Asia,Indigenous,Child <5 yrs,AS
+E66,A,4,L2,O6,LT+STh,CS2+CS3+CS21,1988,Bangladesh,Asia,Indigenous,All ages,D
+E70,A,4,L2,O6,LT+STh,CS2+CS3+CS21,1988,Bangladesh,Asia,Indigenous,Child <5 yrs,D
+E71,A,4,L2,O6,LT+STh,CS2+CS3+CS21,1988,Bangladesh,Asia,Indigenous,Child <5 yrs,D
+E87,A,4,L2,O6,LT+STh,CS2+CS3+CS21,1988,Bangladesh,Asia,Indigenous,Child <5 yrs,D
+E99,A,4,L2,O6,LT+STh,CS2+CS21,1988,Bangladesh,Asia,Indigenous,Child <5 yrs,D
+E1883,A,4,L2,O6,LT+STh,CS2+CS3+CS21,2007,Bangladesh,Asia,Indigenous,Child <5 yrs,AS
+E36,B1,173,L3,O78,LT+STh,CFA/I+CS21,1980,Bangladesh,Asia,Indigenous,All ages,D
+E45,B1,173,L3,O78,LT+STh,CFA/I+CS21,1980,Bangladesh,Asia,Indigenous,All ages,D
+E74,B1,173,L3,O78,LT+ST,CS21,1988,Bangladesh,Asia,Indigenous,All ages,D
+E1716,B1,173,L3,O78,STh,CFA/I,2001,Bangladesh,Asia,Indigenous,All ages,D
+E1841,B1,173,L3,O126,STh,CFA/I+CS21,2007,Bangladesh,Asia,Indigenous,Child <5 yrs,AS
+E1939,B1,n.i.,L3,O114,LT,CS7,2007,Bangladesh,Asia,Indigenous,Child <5 yrs,D
+E1947,B1,173,L3,O126,STh,CFA/I+CS21,2007,Bangladesh,Asia,Indigenous,Child <5 yrs,D
+E2088,B1,173,L3,O128,LT+STh,CFA/I+CS21,2007,Bangladesh,Asia,ENV,ENV,ENV
+E2131,B1,173,L3,O128,ST,CS21,2007,Bangladesh,Asia,Indigenous,Child <5 yrs,D
+E2980,B1,n.i.,L3,O114,LT,CS7,2010,Bangladesh,Asia,unknown,unknown,unknown
+E5086,B1,173,L3,O126,STh,CFA/I+CS21,2011,Bangladesh,Asia,Indigenous,Adult,D
+E1752,A,1312,L4,O25,STh,CS6,2002,Bangladesh,Asia,Indigenous,All ages,D
+E21,B1,443,L5,O115,STh,CS5+CS6,1980,Bangladesh,Asia,Indigenous,All ages,D
+E88,B1,443,L5,O167,LT+STh,CS5+CS6,1988,Bangladesh,Asia,Indigenous,Child <5 yrs,D
+E110,B1,443,L5,O167,STh,CS5+CS6,1985,Bangladesh,Asia,Traveller,Adult,D
+E1724,B1,443,L5,O115,LT+STh,CS5+CS6,2001,Bangladesh,Asia,Indigenous,All ages,D
+E1741,B1,n.i.,L5,O167,LT+ST,CS17,2002,Bangladesh,Asia,Indigenous,All ages,D
+E1750,B1,443,L5,O115,LT+STh,CS5+CS6,2002,Bangladesh,Asia,Indigenous,All ages,D
+E1760,B1,443,L5,O115,LT+STh,CS5+CS6,2002,Bangladesh,Asia,Indigenous,All ages,D
+E1779,B1,443,L5,O115,LT+STh,CS5+CS6,2005,Bangladesh,Asia,Indigenous,Adult,unknown
+E1918,B1,443,L5,O115,LT+STh,CS5+CS6,2007,Bangladesh,Asia,Indigenous,Child <5 yrs,D
+E1994,B1,443,L5,O167,LT,CS17,2007,Bangladesh,Asia,Indigenous,Child <5 yrs,D/AS
+E2092,B1,443,L5,O115,LT+STh,CS5+CS6,2007,Bangladesh,Asia,Indigenous,Child <5 yrs,D
+E2118,B1,443,L5,O167,LT,CS17,2007,Bangladesh,Asia,Indigenous,Child <5 yrs,AS
+E5080,B1,443,L5,O115,LT+STh,CS5+CS6,2011,Bangladesh,Asia,Indigenous,Adult,D
+E5081,B1,443,L5,O115,LT+STh,CS5+CS6,2011,Bangladesh,Asia,Indigenous,Adult,D
+E5082,B1,443,L5,O115,LT+STh,CS5+CS6,2011,Bangladesh,Asia,Indigenous,Adult,D
+E5084,D/E,182,L7,O169,STp,CS6,2011,Bangladesh,Asia,Indigenous,Adult,D
+E2108,B1,94,L8,O148,LT+STp,CS6+CS21,2007,Bangladesh,Asia,ENV,ENV,ENV
+E2110,B1,94,L8,O148,LT+STp,CS6+CS21,2007,Bangladesh,Asia,ENV,ENV,ENV
+E2121,B1,94,L8,O148,LT+STp,CS6+CS21,2007,Bangladesh,Asia,ENV,ENV,ENV
+E5089,A,2345,L11,O174-like,LT+ST,CS23,2011,Bangladesh,Asia,Indigenous,Adult,D
+E28,A,10,L15,O128,ST,CF NEG,1980,Bangladesh,Asia,Indigenous,All ages,D
+E1795,A,10,L15,O128,STh,CFA/I+CS21,2007,Bangladesh,Asia,Indigenous,Child <5 yrs,D
+E79,A,6,L16,O8,LT+STh,CS3+CS21,1986,Bangladesh,Asia,Indigenous,All ages,D
+E85,A,23,L16,O8,LT,CS3+CS21,1987,Bangladesh,Asia,Indigenous,All ages,D
+E1961,A,3864,L16,O8,LT+STp,CS19,2007,Bangladesh,Asia,Indigenous,Child <5 yrs,D
+E1712,B1,n.i.,L17,O98,LT,CS14,2001,Bangladesh,Asia,Indigenous,All ages,D
+E1735,B1,n.i.,L17,O98,LT+STh,CS14,2002,Bangladesh,Asia,Indigenous,All ages,D
+E1736,B1,n.i.,L17,O98,LT+STh,CS14,2002,Bangladesh,Asia,Indigenous,All ages,D
+E1744,B1,328,L17,O88,LT,CF NEG,2002,Bangladesh,Asia,Indigenous,All ages,D
+E1871,B1,n.i.,L17,O98,LT+STh,CS14,2007,Bangladesh,Asia,Indigenous,Child <5 yrs,AS
+E5085,B1,1490,L18,O159,STp,CS6,2011,Bangladesh,Asia,Indigenous,Adult,D
+E5088,B1,1490,L18,O159,STp,CS6,2011,Bangladesh,Asia,Indigenous,Adult,D
+E97,A,96,,O25,LT+STp,CS4+CS6,1988,Bangladesh,Asia,Indigenous,Child <5 yrs,D
+E1784,B1,9,,O19,STh,CS6,2005,Bangladesh,Asia,Indigenous,Adult,unknown
+E5087,D/E,405,,O102,ST,CF NEG,2011,Bangladesh,Asia,Indigenous,Adult,D
+E2981,D/E,354,,ON3,LT,CF NEG,2010,Bangladesh,Asia,unknown,unknown,unknown
+E2219,A,4,L1,O6,LT+STh,CS1+CS3+CS21,2007,Bolivia,South America,Indigenous,Child <5 yrs,D
+E2386,A,4,L1,O6,LT+STh,CS1+CS3+CS21,2007,Bolivia,South America,Indigenous,Child <5 yrs,D
+E2347,B1,173,L3,O78,LT,CF NEG,2007,Bolivia,South America,Indigenous,Child <5 yrs,D
+E2339,B1,443,L5,O167,LT+STh,CS5+CS6,2007,Bolivia,South America,Indigenous,Child <5 yrs,D
+E2397,B1,443,L5,O167,LT+STh,CS5+CS6,2007,Bolivia,South America,Indigenous,Child <5 yrs,D
+E2371,A,218,L11,O174-like,LT,CF NEG,2008,Bolivia,South America,Indigenous,Child <5 yrs,D
+E2377,A,10,L15,O182,LT,CS6,2007,Bolivia,South America,Indigenous,Child <5 yrs,D
+E2392,A,43,L15,O6,LT,CF NEG,2007,Bolivia,South America,Indigenous,Child <5 yrs,D
+E2185,A,423,L16,O8,LT,CS17,2007,Bolivia,South America,Indigenous,Child <5 yrs,D
+E2348,A,6,L16,ON4,LT+STh,CF NEG,2007,Bolivia,South America,Indigenous,Child <5 yrs,D
+E2393,A,23,L16,O8,LT,CS1,2007,Bolivia,South America,Indigenous,Child <5 yrs,D
+E2404,B1,328,L17,O88,LT,CF NEG,2008,Bolivia,South America,Indigenous,Child <5 yrs,D
+E2405,B1,328,L17,O88,LT,CF NEG,2008,Bolivia,South America,Indigenous,Child <5 yrs,D
+E2395,B1,940,L20,O63,STh,CS14,2007,Bolivia,South America,Indigenous,Child <5 yrs,D
+E2367,A,46,L21,O9,LT,CF NEG,2008,Bolivia,South America,Indigenous,Child <5 yrs,D
+E2388,D/E,349,,O166,LT,CF NEG,2007,Bolivia,South America,Indigenous,Child <5 yrs,D
+E2362,D/E,349,,O166,ST,CF NEG,2008,Bolivia,South America,Indigenous,Child <5 yrs,D
+E2439,B2,131,,O25-like,ST,CF NEG,2008,Bolivia,South America,Indigenous,Child <5 yrs,D
+E141,B1,n.i.,L3,O114,LT,CS7,1989,Burma,South America,Indigenous,unknown,D
+E1334,A,n.i.,L7,n.i.,STp,CS6,1996,China,South America,Traveller,Adult,D
+E938,A,2353,L1,O6,LT+STh,CS1+CS3+CS21,1997,Egypt,Africa,Soldier,Adult,D
+E953,A,2353,L1,O6,LT+STh,CS1+CS3+CS21,1997,Egypt,Africa,Soldier,Adult,D
+E995,A,2353,L1,O6,LT+STh,CS1+CS3+CS21,1997,Egypt,Africa,Soldier,Adult,D
+E1074,A,2353,L1,O6,LT+STh,CS1+CS3+CS21,2000,Egypt,Africa,Indigenous,Child <5 yrs,D/AS
+E1018,A,4,L2,O6,LT+STh,CS2+CS3,1999,Egypt,Africa,Indigenous,Child <5 yrs,D
+E1009,B1,n.i.,L3,O114,LT,CS7,1999,Egypt,Africa,Indigenous,Child <5 yrs,D
+E1362,A,1312,L4,O25,STh,CS21,1996,Egypt,Africa,Traveller,Adult,D
+E1363,A,1312,L4,n.i.,STh,CS21,1996,Egypt,Africa,Traveller,Adult,D
+E1365,A,1312,L4,O25,STh,CS21,1996,Egypt,Africa,Traveller,Adult,D
+E1003,B1,443,L5,O39,LT+STh,CS5+CS6,1999,Egypt,Africa,Indigenous,Child <5 yrs,D
+E1034,B1,443,L5,O39,LT+STh,CS5+CS6,1999,Egypt,Africa,Indigenous,Child <5 yrs,D
+E1085,B1,443,L5,O167,LT+STh,CS5+CS6,2000,Egypt,Africa,Indigenous,Child <5 yrs,D/AS
+E1111,B1,443,L5,O167,LT+STh,CS5+CS6,2000,Egypt,Africa,Indigenous,Child <5 yrs,D/AS
+E1298,B1,443,L5,O167,LT+STh,CS5+CS6,2001,Egypt,Africa,Indigenous,Child <5 yrs,D
+E986,A,2332,L6,O71,STh,CFA/I+CS21,1997,Egypt,Africa,Soldier,Adult,D
+E1245,D/E,182,L7,O169,STp,CS6,2001,Egypt,Africa,Indigenous,Child <5 yrs,D
+E1189,B1,94,L8,O148,STh,CS6+CS21,2001,Egypt,Africa,Indigenous,Child <5 yrs,D
+E1352,B1,94,L8,O148,STh,CS6+CS21,1996,Egypt,Africa,Traveller/Soldier,Adult,D
+E1355,B1,94,L8,O148,STh,CS6+CS21,1996,Egypt,Africa,Traveller,Adult,D
+E1356,B1,94,L8,O148,STh,CS6+CS21,1996,Egypt,Africa,Traveller,Adult,D
+E927,A,1497,L9,O159,STp,CS6,1997,Egypt,Africa,Soldier,Adult,D
+E940,A,398,L9,O167,STp,CS6,1997,Egypt,Africa,Soldier,Adult,D
+E943,A,1497,L9,O159,STp,CS6,1997,Egypt,Africa,Soldier,Adult,D
+E934,A,2368,L10,O114,LT+STp,CS19,1997,Egypt,Africa,Soldier,Adult,D
+E935,A,2368,L10,O114,LT+STp,CS19,1997,Egypt,Africa,Soldier,Adult,D
+E944,A,2368,L10,O114,LT+STp,CS19,1997,Egypt,Africa,Soldier,Adult,D
+E945,A,2368,L10,O56,LT+STp,CS19,1997,Egypt,Africa,Soldier,Adult,D
+E955,A,2368,L10,O15,LT+STp,CS19,1997,Egypt,Africa,Soldier,Adult,D
+E978,A,2368,L10,O114,LT+STp,CS19,1997,Egypt,Africa,Soldier,Adult,D
+E1167,A,2368,L10,O114,LT+STp,CS19,2001,Egypt,Africa,Indigenous,Child <5 yrs,D
+E1248,A,2368,L10,O114,LT+STp,CS19,2001,Egypt,Africa,Indigenous,Child <5 yrs,D
+E1258,A,2368,L10,O114,LT+STp,CS19,2001,Egypt,Africa,Indigenous,Child <5 yrs,D
+E1264,A,2368,L10,O114,LT+STp,CS19,2001,Egypt,Africa,Indigenous,Child <5 yrs,D
+E1281,A,2368,L10,O114,LT+STp,CS19,2001,Egypt,Africa,Indigenous,Child <5 yrs,D
+E1285,A,2368,L10,O114,LT+STp,CS19,2001,Egypt,Africa,Indigenous,Child <5 yrs,D
+E947,A,10,L11,O15,LT+STp,CF NEG,1997,Egypt,Africa,Soldier,Adult,D
+E1057,A,10,L11,O56,LT+STp,CF NEG,2000,Egypt,Africa,Indigenous,Child <5 yrs,AS
+E952,A,165,L13,O114,LT,CF NEG,1997,Egypt,Africa,Soldier,Adult,D
+E1193,A,10,L14,ON5,ST,CF NEG,2001,Egypt,Africa,Indigenous,Child <5 yrs,D
+E941,A,43,L15,O114,LT,CF NEG,1997,Egypt,Africa,Soldier,Adult,D
+E1091,A,10,L15,O128,STh,CFA/I+CS21,2000,Egypt,Africa,Indigenous,Child <5 yrs,D/AS
+E1101,A,167,L15,OC14-like,LT+STp,CF NEG,2000,Egypt,Africa,Indigenous,Child <5 yrs,AS
+E1287,A,10,L15,O128,STh,CFA/I+CS21,2001,Egypt,Africa,Indigenous,Child <5 yrs,D
+E1102,A,88,L16,ON5,ST,CF NEG,2000,Egypt,Africa,Indigenous,Child <5 yrs,AS
+E3015,B1,316,L17,O27,STp,CS6,1998,Egypt,Africa,Indigenous,Child <5 yrs,D
+E928,B1,223,L19,O78,STh,CS14,1997,Egypt,Africa,Soldier,Adult,D
+E936,B1,295,,O39,LT+ST,CF NEG,1997,Egypt,Africa,Soldier,Adult,D
+E939,B1,1325,,O39,ST,CF NEG,1997,Egypt,Africa,Soldier,Adult,D
+E949,A,48,,OSB16,LT,CF NEG,1997,Egypt,Africa,Soldier,Adult,D
+E956,A,48,,ON3,LT,CF NEG,1997,Egypt,Africa,Soldier,Adult,D
+E996,D/E,3859,,O4,STh,CS6,1997,Egypt,Africa,Soldier,Adult,D
+E998,B1,295,,ON5,ST,CF NEG,1997,Egypt,Africa,Soldier,Adult,D
+E1072,B1,747,,OC15,LT+STp,CF NEG,2000,Egypt,Africa,Indigenous,Child <5 yrs,AS
+E1169,B1,747,,OC15,LT+STp,CF NEG,2001,Egypt,Africa,Indigenous,Child <5 yrs,D
+E1242,B1,120,,n.i.,LT+STp,CS18,2001,Egypt,Africa,Indigenous,Child <5 yrs,D
+E1282,B1,500,,ON5,ST,CF NEG,2001,Egypt,Africa,Indigenous,Child <5 yrs,D
+E957,A,48,,O15,LT,CF NEG,1997,Egypt,Africa,Soldier,Adult,D
+E471,A,4,L1,O6,LT+STh,CS1+CS3+CS21,2000,Guatemala,Central America,Traveller,Adult,D/AS
+E632,A,4,L1,O6,LT+STh,CS1+CS3+CS21,2000,Guatemala,Central America,Traveller,Adult,AS
+E812,A,2353,L1,O6,STh,CS1+CS3+CS21,2002,Guatemala,Central America,Traveller,Adult,D
+E863,A,2353,L1,O6,LT+STh,CS1+CS3+CS21,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E925,A,2353,L1,O6,LT+STh,CS1+CS3+CS21,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E822,A,3853,L2,O6,LT+STh,CS2+CS3+CS21,2002,Guatemala,Central America,Traveller,Adult,D
+E903,A,4,L2,O6,LT+STh,CS2+CS3+CS21,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E658,B1,173,L3,O78,LT,CFA/I+CS21,2001,Guatemala,Central America,Traveller,Adult,AS
+E810,B1,6,L3,O78,LT+STh,CFA/I+CS21,2002,Guatemala,Central America,Traveller,Adult,D
+E858,B1,6,L3,O78,LT+STh,CFA/I+CS21,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E917,B1,173,L3,O78,STh,CFA/I+CS21,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E924,A,1312,L4,O25,STh,CS21,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E655,B1,443,L5,O115,STh,CS5+CS6,2000,Guatemala,Central America,Traveller,Adult,D
+E865,B1,443,L5,O115,STh,CS5+CS6,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E867,B1,443,L5,O115,STh,CS5+CS6,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E877,B1,443,L5,O115,STh,CS5+CS6,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E900,B1,443,L5,O167,LT,CS17,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E916,B1,443,L5,O115,STh,CS5+CS6,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E636,A,2332,L6,ON3,STh,CFA/I+CS21,2000,Guatemala,Central America,Traveller,Adult,D
+E897,A,274,L6,ON3,STh,CFA/I+CS21,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E370,D/E,182,L7,O169,STp,CS6,1998,Guatemala,Central America,Traveller,Adult,D/AS
+E806,A,398,L9,O27,STp,CS6,2002,Guatemala,Central America,Traveller,Adult,D
+E856,A,398,L9,O27,STp,CS6,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E860,A,398,L9,O27,STp,CS6,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E871,A,398,L9,O27,STp,CS6,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E879,A,398,L9,O27,STp,CS6,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E451,A,3856,L11,O56,LT,CF NEG,2000,Guatemala,Central America,Traveller,Adult,D/AS
+E883,A,206,L11,O60,LT+ST,CF NEG,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E405,A,731,L12,O15,LT,CF NEG,1999,Guatemala,Central America,Traveller,Adult,D/AS
+E399,A,100,L13,O112ab,LT,CF NEG,1999,Guatemala,Central America,Traveller,Adult,D/AS
+E604,A,165,L13,OSB16,LT+STp,CF NEG,2000,Guatemala,Central America,Traveller,Adult,D
+E616,A,165,L13,OSB16,LT+STp,CF NEG,2000,Guatemala,Central America,Traveller,Adult,D
+E628,A,165,L13,OSB16,LT+STp,CF NEG,2000,Guatemala,Central America,Traveller,Adult,AS
+E855,A,165,L13,OSB16,LT,CF NEG,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E620,A,1684,L14,ON5,ST,CF NEG,2000,Guatemala,Central America,Traveller,Adult,AS
+E626,A,10,L14,ON5,ST,CF NEG,2000,Guatemala,Central America,Traveller,Adult,D
+E704,A,10,L14,ON5,ST,CF NEG,2001,Guatemala,Central America,Traveller,Adult,AS
+E705,A,10,L14,ON5,ST,CF NEG,2001,Guatemala,Central America,Traveller,Adult,AS
+E811,A,2705,L14,ON5,ST,CF NEG,2002,Guatemala,Central America,Traveller,Adult,D
+E415,A,10,L15,O182,LT,CS6,1999,Guatemala,Central America,Traveller,Adult,D/AS
+E425,A,10,L15,O182,LT,CS6,1999,Guatemala,Central America,Traveller,Adult,D/AS
+E828,A,1290,L15,ON5,ST,CF NEG,2002,Guatemala,Central America,Traveller,Adult,D
+E882,A,10,L15,OC6,LT+STp,CS12,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E898,A,10,L15,O182,LT,CS6,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E445,A,23,L16,O8,LT,CS1,2000,Guatemala,Central America,Traveller,Adult,D/AS
+E816,A,410,L16,O8,LT+STh,CS3+CS21,2002,Guatemala,Central America,Traveller,Adult,D
+E841,A,6,L16,O8,LT,CS8,2003,Guatemala,Central America,Traveller,Adult,D
+E416,B1,316,L17,O27,STp,CS6,1999,Guatemala,Central America,Traveller,Adult,D/AS
+E842,B1,316,L17,O27,STp,CS6,2003,Guatemala,Central America,Traveller,Adult,D
+E895,B1,316,L17,O27,STp,CS6,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E908,B1,278,L17,n.i.,ST,CF NEG,2004,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E391,B1,641,L18,O159,LT,CF NEG,1999,Guatemala,Central America,Traveller,Adult,D/AS
+E659,B1,641,L18,O133,LT,CF NEG,2001,Guatemala,Central America,Traveller,Adult,AS
+E818,B1,3867,L18,O64,LT,CS13,2002,Guatemala,Central America,Traveller,Adult,D
+E819,B1,3858,L18,ON15,LT,CF NEG,2002,Guatemala,Central America,Traveller,Adult,D
+E821,B1,3858,L18,ON15,LT,CF NEG,2002,Guatemala,Central America,Traveller,Adult,D
+E833,B1,641,L18,O159,LT,CS28a,2003,Guatemala,Central America,Traveller,Adult,D
+E885,B1,641,L18,O159,LT,CF NEG,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E899,B1,641,L18,O133,LT,CF NEG,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E622,B1,2340,L19,O58,LT,CF NEG,2000,Guatemala,Central America,Traveller,Adult,AS
+E645,B1,616,L19,ON13,LT,CF NEG,2000,Guatemala,Central America,Traveller,Adult,AS
+E884,B1,2340,L19,O58,LT,CF NEG,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E887,B1,155,L19,O170,ST,CF NEG,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E891,B1,155,L19,O154,ST,CF NEG,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E892,B1,155,L19,O170,ST,CF NEG,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E907,B1,6,L19,O128,STh,CS14,2004,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E920,B1,58,L19,O128,STh,CS14,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E873,B1,940,L20,O64,LT+STp,CF NEG,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E881,B1,940,L20,O64,LT+STp,CF NEG,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E876,A,46,L21,O9,LT,CS20,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E390,B1,3855,,ON5,ST,CF NEG,1999,Guatemala,Central America,Traveller,Adult,AS
+E618,B1,295,,ON5,ST,CF NEG,2000,Guatemala,Central America,Traveller,Adult,AS
+E662,A,93,,O7,LT,CF NEG,2001,Guatemala,Central America,Traveller,Adult,AS
+E703,B1,295,,ON5,ST,CF NEG,2001,Guatemala,Central America,Traveller,Adult,AS
+E888,B1,101,,O103,ST,CF NEG,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E890,B1,3855,,ON5,ST,CF NEG,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E893,B1,101,,O88,ST,CF NEG,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E901,D/E,1380,,OC15,LT,CF NEG,2003,Guatemala,Central America,Indigenous,Child <5 yrs,D
+E621,B1,3188,,ON5,ST,CF NEG,2000,Guatemala,Central America,Traveller,Adult,AS
+E710,B1,3188,,ON5,ST,CF NEG,2001,Guatemala,Central America,Traveller,Adult,AS
+E1516,A,1312,L4,O25,LT,CS6,2003,Guinea Bissau,Africa,Indigenous,Child <5 yrs,AS
+E1484,D,182,L7,O169,STp,CS6,2003,Guinea Bissau,Africa,Indigenous,Child <5 yrs,AS
+E1512,B1,316,L17,O27,STp,CS6,2003,Guinea Bissau,Africa,Indigenous,Child <5 yrs,AS
+E1523,B1,316,L17,O27,STp,CS6,2003,Guinea Bissau,Africa,Indigenous,Child <5 yrs,AS
+E5052,A,10,L11,O64,LT,CS6,unknown,India,Asia,Indigenous,Child <5 yrs,D
+E5049,B1,n.i.,,n.i.,LT,CS6,unknown,India,Asia,Indigenous,Child <5 yrs,D
+E5051,B1,295,,O159,LT,CS6,unknown,India,Asia,Indigenous,Child <5 yrs,D
+E1648,A,2353,L1,O6,LT+STh,CS1+CS3+CS21,1990,Indonesia,Asia,Indigenous,Child <5 yrs,D
+E1654,A,2353,L1,O6,LT+STp,CS1+CS3+CS21,1990,Indonesia,Asia,Traveller,Adult,D
+E1624,A,4,L2,O6,LT+STh,CS2+CS3+CS21,1990,Indonesia,Asia,Traveller,Adult,D
+E1649,A,4,L2,O6,LT+STh,CS2+CS3+CS21,1997,Indonesia,Asia,Traveller/Soldier,Adult,D
+E1667,A,4,L2,O6,LT+STh,CS2+CS3+CS21,1997,Indonesia,Asia,Traveller/Soldier,Adult,D
+E1666,B1,173,L3,O126,STh,CFA/I+CS21,1990,Indonesia,Asia,Indigenous,Child <5 yrs,D
+E1628,A,1312,L4,O25,LT,CS6+CS21,1990,Indonesia,Asia,Indigenous,Child <5 yrs,D
+E1625,B1,205,L5,O174,LT,CS6,1990,Indonesia,Asia,Indigenous,Child <5 yrs,D
+E1635,B1,443,L5,O167,LT,CS17,1997,Indonesia,Asia,Traveller/Soldier,Adult,D
+E1646,B1,443,L5,O115,STh,CS5+CS6,1990,Indonesia,Asia,Traveller,Adult,D
+E1373,D/E,182,L7,O169,STp,CS6,1996,Indonesia,Asia,Traveller,Adult,D
+E1634,A,206,L11,O105,LT,CF NEG,1990,Indonesia,Asia,Indigenous,Child <5 yrs,D
+E1690,A,2758,L11,O40,ST,CF NEG,1990,Indonesia,Asia,Indigenous,Child <5 yrs,D
+E1679,A,10,L15,O159,LT+STp,CS12,1990,Indonesia,Asia,Indigenous,Child <5 yrs,D
+E1623,A,23,L16,ON5,ST,CF NEG,1990,Indonesia,Asia,Indigenous,Child <5 yrs,D
+E1637,A,23,L16,ON5,ST,CF NEG,1990,Indonesia,Asia,Indigenous,Child <5 yrs,D
+E1674,A,23,L16,ON5,ST,CF NEG,1990,Indonesia,Asia,Indigenous,Child <5 yrs,D
+E1392,B1,316,L17,O27,STp,CS6,1996,Indonesia,Asia,Traveller,Adult,D
+E1398,B1,316,L17,O27,STp,CS6,1996,Indonesia,Asia,Traveller,Adult,D
+E1684,B1,316,L17,O27,STp,CS6,1990,Indonesia,Asia,Indigenous,Child <5 yrs,D
+E1640,B1,641,L18,O159,LT+ST,CF NEG,1990,Indonesia,Asia,Indigenous,Child <5 yrs,D
+E1673,B1,155,L19,O38,ST,CF NEG,1990,Indonesia,Asia,Indigenous,Child <5 yrs,D
+E1682,B1,616,L19,ON13,LT,CF NEG,1990,Indonesia,Asia,Indigenous,Child <5 yrs,D
+E1460,D/E,117,,O111-like,ST,CF NEG,1997,Indonesia,Asia,Traveller/Soldier,Adult,D
+E1638,B1,3188,,ON5,ST,CF NEG,1990,Indonesia,Asia,Indigenous,Child <5 yrs,D
+E1641,D/E,38,,O7,LT,CF NEG,1990,Indonesia,Asia,Indigenous,Child <5 yrs,D
+E1642,B2,52,,ON16,LT+STp,CF NEG,1990,Indonesia,Asia,Indigenous,Child <5 yrs,D
+E1647,B1,3862,,ON17,LT,CS6+CS21,1990,Indonesia,Asia,Indigenous,Child <5 yrs,D
+E1650,B1,3863,,ON13,LT,CF NEG,1990,Indonesia,Asia,Indigenous,Child <5 yrs,D
+E1657,B1,1308,,ON2,LT+STp,CS12,1997,Indonesia,Asia,Traveller/Soldier,Adult,D
+E1659,B1,200,,O175,LT,CF NEG,1990,Indonesia,Asia,Indigenous,Child <5 yrs,D
+E1661,D/E,394,,OC15,LT+STp,CF NEG,1990,Indonesia,Asia,Indigenous,Child <5 yrs,D
+E4092,A,1312,L4,O25,LT,CS6+CS8,2005,Israel,Asia,Soldier,Adult,D
+E263,A,4,L1,O6,LT+ST,CS1+CS21,1987,Japan,Asia,Traveller,Adult,D
+E143,A,4,L2,O6,LT+STh,CS2+CS3+CS21,1983,Japan,Asia,Traveller,Adult,D
+E272,A,4,L2,O6,LT+STh,CS2+CS3,1987,Japan,Asia,Traveller,Adult,D
+E157,B1,205,L5,O174,LT,CS6,1983,Japan,Asia,Traveller,Adult,D
+E222,B1,94,L8,O148,ST,CS21,1987,Japan,Asia,Traveller,Adult,D
+E224,B1,448,L8,O148,STh,CS6+CS21,1987,Japan,Asia,Traveller,Adult,D
+E220,A,398,L9,O27,STp,CS6,1987,Japan,Asia,Traveller,Adult,D
+E223,A,398,L9,O27,ST,CF NEG,1987,Japan,Asia,Traveller,Adult,D
+E237,A,398,L9,O27,STp,CS6,1987,Japan,Asia,Traveller,Adult,D
+E251,A,398,L9,O78,STh,CF NEG,1987,Japan,Asia,Traveller,Adult,D
+E159,A,218,L11,O159,LT,CF NEG,1983,Japan,Asia,Traveller,Adult,D
+E167,A,10,L11,ON14,LT,CF NEG,1983,Japan,Asia,Traveller,Adult,D
+E2370,A,218,L11,O174,LT+ST,CF NEG,2008,Japan,Asia,Indigenous,Child <5 yrs,D
+E160,A,10,L15,O133,LT,CF NEG,1983,Japan,Asia,Traveller,Adult,D
+E151,B1,52,,OC15,LT,CS12,1983,Japan,Asia,Traveller,Adult,D
+E239,D/E,394,,OC15,LT+STp,CF NEG,1987,Japan,Asia,Traveller,Adult,D
+E1114,A,1312,L4,O25,LT,CS6+CS8,2001,Kenya,Africa,Traveller/Soldier,Adult,D
+E1115,A,1312,L4,O25,LT,CS6+CS8,2001,Kenya,Africa,Traveller/Soldier,Adult,D
+E1116,A,1312,L4,O25,LT,CS6+CS8,2001,Kenya,Africa,Traveller/Soldier,Adult,D
+E1117,A,1312,L4,O25,LT,CS6+CS8,2001,Kenya,Africa,Traveller/Soldier,Adult,D
+E1118,A,1312,L4,O25,LT,CS6+CS8,2001,Kenya,Africa,Traveller/Soldier,Adult,D
+E1119,A,1312,L4,O25,LT,CS6+CS21,2001,Kenya,Africa,Traveller/Soldier,Adult,D
+E1120,A,1312,L4,O25,LT,CS6+CS21,2001,Kenya,Africa,Traveller/Soldier,Adult,D
+E1121,A,1312,L4,O25,LT,CS6+CS21,2001,Kenya,Africa,Traveller/Soldier,Adult,D
+E1122,A,1312,L4,O25,LT,CS6,2001,Kenya,Africa,Traveller/Soldier,Adult,D
+E1441,A,1312,L4,O25,LT,CS6+CS21,1997,Kenya,Africa,Traveller,Adult,D
+E1442,A,1312,L4,O25,LT,CS6+CS21,1997,Kenya,Africa,Traveller,Adult,D
+E1328,D,182,L7,O169,STp,CS6+CS21,1996,Kenya,Africa,Traveller,Adult,D
+E1329,D,182,L7,O169,STp,CS6+CS21,1996,Kenya,Africa,Traveller,Adult,D
+E517,A,2353,L1,O6,LT+STh,CS1+CS3,2000,Mexico,Central America,Traveller,Adult,D/AS
+E340,A,1312,L4,O25,STh,CS21,1998,Mexico,Central America,Traveller,Adult,D/AS
+E343,A,1312,L4,O25,STh,CS21,1998,Mexico,Central America,Traveller,Adult,D/AS
+E562,A,2332,L6,ON3,STh,CFA/I+CS21,2000,Mexico,Central America,Traveller,Adult,D/AS
+E563,A,2332,L6,ON3,STh,CFA/I+CS21,2000,Mexico,Central America,Traveller,Adult,D/AS
+E344,D/E,182,L7,O169,STp,CS6,1998,Mexico,Central America,Traveller,Adult,D/AS
+E520,D/E,182,L7,O169,STp,CS6,2000,Mexico,Central America,Traveller,Adult,D/AS
+E554,D/E,182,L7,O169,STp,CS6,2000,Mexico,Central America,Traveller,Adult,D/AS
+E335,B1,94,L8,O148,LT+STp,CS6+CS21,1998,Mexico,Central America,Traveller,Adult,D/AS
+E336,B1,94,L8,O148,LT+STp,CS6+CS21,1998,Mexico,Central America,Traveller,Adult,D/AS
+E330,A,731,L12,O15,LT,CF NEG,1998,Mexico,Central America,Traveller,Adult,D/AS
+E329,A,10,L15,O3,LT,CF NEG,1998,Mexico,Central America,Traveller,Adult,D/AS
+E354,A,10,L15,ON5,ST,CF NEG,1998,Mexico,Central America,Traveller,Adult,D/AS
+E356,A,10,L15,ON5,ST,CF NEG,1998,Mexico,Central America,Traveller,Adult,D/AS
+E513,A,10,L15,ON5,ST,CF NEG,2000,Mexico,Central America,Traveller,Adult,D/AS
+E351,A,410,L16,O8,LT,CF NEG,1998,Mexico,Central America,Traveller,Adult,D/AS
+E360,A,23,L16,O8,LT,CS1,1998,Mexico,Central America,Traveller,Adult,D/AS
+E333,B1,316,L17,O27,STp,CS6,1998,Mexico,Central America,Traveller,Adult,D/AS
+E519,B1,3857,L18,O159,LT,CF NEG,2000,Mexico,Central America,Traveller,Adult,D/AS
+E527,B1,641,L18,O159,LT,CF NEG,2000,Mexico,Central America,Traveller,Adult,D/AS
+E528,B1,3857,L18,O64,LT,CF NEG,2000,Mexico,Central America,Traveller,Adult,D/AS
+E361,B1,940,L20,O64,LT+STp,CS13,1998,Mexico,Central America,Traveller,Adult,D/AS
+E1407,B1,940,L20,O64,LT,CS6,1996,Mexico,Central America,Traveller,Adult,D
+E529,A,1139,L21,O9,LT,CF NEG,2000,Mexico,Central America,Traveller,Adult,D/AS
+E523,B2,142,,O71,ST,CF NEG,2000,Mexico,Central America,Traveller,Adult,D/AS
+E509,B1,295,,ON5,ST,CF NEG,2000,Mexico,Central America,Traveller,Adult,D/AS
+E1433,A,2353,L1,O6,LT+STh,CS1+CS3+CS21,1997,Morocco,Africa,Traveller,Adult,D
+E1316,A,2353,L1,O6,LT+STh,CS1+CS3+CS21,1996,Nepal,Asia,Traveller,Adult,unknown
+E2256,D/E,182,L7,O169,STp,CS6,2007,Thailand,Asia,Soldier,Adult,D
+E1360,B1,155,L19,O21,ST,CF NEG,1996,Tunisia,Africa,Traveller,Adult,D
+E135,A,1312,L4,O25,LT,CS6+CS8,1989,ND,ND,Indigenous,unknown,D
+E133,A,10,L15,O159,LT+STp,CS12,1989,ND,ND,Indigenous,unknown,D
+E126,B1,58,L19,O166,STh,CS14,1989,ND,ND,Indigenous,unknown,D
+E106,A,96,,O25,LT+STp,CS4+CS6,1985,ND,ND,Indigenous,unknown,D
+E1429tiny,A,1312,L4,O25,LT,CS6+CS21,1997,Venezuela,South America,unknown,unknown,unknown
+E1432G,A,34,L15,O92,LT,CF NEG,1997,Venezuela,South America,Traveller,Adult,D
+E1432w,D/E,394,,OC15,LT,CF NEG,1997,Venezuela,South America,Traveller,Adult,D
+E129,B1,278,L17,O114,LT,CS17,1989,Zaire,Africa,Indigenous,unknown,D
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,," [1] ""e1527""     ""e1524""     ""e1581""     ""e1564""     ""e1582""     ""e1585""     ""e1576""     ""e1616""     ""e1609""     ""e1607""    ",,,,,,,,,,
+,,"[11] ""e1432g""    ""e1615""     ""e1432w""    ""e1593""     ""e1561""     ""e1604""     ""e1586""     ""e1592""     ""e1599""     ""e1429tiny""",,,,,,,,,,
+,,"[21] ""e1620""     ""e1541""     ""e1580""     ""e1574""     ""e1573""     ""e1600""     ""e1533""     ""e1611""     ""e1544""     ""e1617""    ",,,,,,,,,,
+,,"[31] ""e1597""     ""e1548""     ""e1526""     ""e1535""     ""e1534""     ""e1556""     ""e1594""     ""e1587""     ""e1596""     ""e1532""    ",,,,,,,,,,
+,,"[41] ""e1543""     ""e1542""     ""e1525""",,,,,,,,,,

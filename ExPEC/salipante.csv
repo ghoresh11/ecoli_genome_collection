@@ -1,0 +1,385 @@
+﻿Sample ID,Isolation Source,Hemolysis,Coded Patient Number,Sex,Patient age,Study day*,Amikacin,Ampicillin ,Aztreonam,Ceftazidime,Cefepime,Cefazolin,Ciprofloxacin,Cefotetan,Cefotaxime,Doxycycline,Ertapenem,Fosfomycin,Gentamicin ,Imipenem ,Levofloxacin ,Meropenem,Moxifloxacin,Piperacillin-tazobactam,Ampicillin-sulbactam ,Trimethoprim-sulfmethoxazole,Tigecycline,Tobramycin,Ceftriaxone
+blood-09-0249,blood,gamma,1,M,53,403,,R ,R ,R ,,R ,R ,R ,,,,,SN ,R ,R ,,,SN ,R ,,,,R
+blood-09-0428,blood,gamma,1,M,53,443,,R ,R ,R ,,R ,R ,R ,,,,,SN ,R ,R ,,,R ,R ,,,,R
+blood-90187,blood,gamma,1,M,53,392,,R ,INT ,R ,,R ,R ,R ,,,,,SN ,SN ,R ,,,SN ,R ,,,,INT
+blood-10-1308,blood,gamma,2,F,64,1011,,R ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-10-1310,blood,gamma,2,F,64,1012,,R ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-11-0254,blood,gamma,3,F,57,1143,,R ,SN ,SN ,,R ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,R ,,,,SN
+blood-B-11-184,blood,gamma,3,F,57,1184,,R ,SN ,SN ,SN ,R ,R ,SN ,,,SN ,,SN ,SN ,R ,,,SN ,R ,R ,,,SN
+blood-09-0389,blood,gamma,4,M,66,435,,SN ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-09-0409,blood,gamma,4,M,66,437,,R ,SN ,SN ,SN ,SN ,SN ,SN ,,,SN ,,SN ,SN ,SN ,,,SN ,INT ,,,,SN
+blood-08-1487,blood,gamma,5,M,69,296,,R ,SN ,SN ,,SN ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,SN ,,,,SN
+blood-08-1493,blood,gamma,5,M,69,297,,R ,SN ,SN ,,SN ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,SN ,,,,SN
+blood-08-0632,blood,beta,6,M,79,106,,R ,INT ,SN ,SN ,R ,R ,SN ,,,SN ,,R ,SN ,R ,,,SN ,R ,,SN ,,R
+blood-10-0223,blood,beta,6,M,81,769,,R ,R ,R ,,R ,R ,R ,,,SN ,,R ,SN ,R ,,,R ,R ,,,,R
+blood-10-0675,blood,gamma,7,M,52,878,,R ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-10-0684,blood,gamma,7,M,52,880,,R ,SN ,SN ,,SN ,INT ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-10-1215,blood,gamma,8,F,51,990,,INT ,SN ,SN ,,SN ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,SN ,,,,SN
+blood-10-1227,blood,gamma,8,F,51,990,,SN ,SN ,SN ,,SN ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,SN ,,,,SN
+blood-10-1362,blood,gamma,8,F,51,1023,,SN ,SN ,SN ,,SN ,R ,SN ,,,SN ,,SN ,SN ,R ,,,SN ,SN ,,,INT ,SN
+blood-08-1462,blood,gamma,9,F,55,290,,R ,SN ,SN ,,SN ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,SN ,,,,SN
+blood-08-1463,blood,gamma,9,F,55,291,,R ,SN ,SN ,,SN ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,SN ,,,,SN
+blood-09-0829,blood,gamma,10,F,53,548,,SN ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-09-0856,blood,gamma,10,F,53,549,,R ,R ,R ,,R ,SN ,R ,,,SN ,,SN ,SN ,SN ,,,R ,R ,,,,R
+blood-09-0626,blood,gamma,11,F,51,495,,R ,SN ,SN ,,SN ,R ,SN ,,,SN ,,SN ,SN ,R ,,,SN ,INT ,,,,SN
+blood-10-1009,blood,gamma,11,F,52,957,,R ,SN ,SN ,,SN ,R ,SN ,,,SN ,,R ,SN ,R ,,,SN ,R ,,,R ,SN
+blood-10-1607,blood,gamma,12,F,51,1078,,R ,R ,R ,,R ,R ,R ,,,SN ,,SN ,SN ,R ,,,R ,R ,,,,R
+blood-10-1610,blood,gamma,12,F,51,1078,,R ,R ,R ,,R ,R ,R ,,,SN ,,SN ,SN ,R ,,,R ,R ,,,,R
+blood-08-1562,blood,gamma,13,F,61,311,,R ,SN ,SN ,,SN ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,SN ,,,,SN
+blood-08-1563rep1,blood,gamma,13,F,61,312,,R ,SN ,SN ,,SN ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,SN ,,,,SN
+blood-08-1563rep2,blood,gamma,13,F,61,312,,R ,SN ,SN ,,SN ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,SN ,,,,SN
+blood-08-0997,blood,gamma,14,M,63,186,,SN ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-08-1203,blood,gamma,14,M,63,230,,INT ,SN ,SN ,,SN ,SN ,SN ,,,SN ,,SN ,SN ,SN ,SN ,,SN ,SN ,,,,SN
+blood-10-1365,blood,gamma,15,M,61,1026,,R ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-10-1386,blood,gamma,15,M,61,1028,,R ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-09-0949,blood,gamma,16,M,51,568,,R ,INT ,R ,,R ,R ,R ,,,SN ,,SN ,SN ,R ,,,INT ,R ,,,,INT
+blood-09-1290,blood,gamma,16,M,51,647,,R ,INT ,R ,,R ,R ,R ,,,,,SN ,SN ,R ,,,SN ,R ,,,,INT
+blood-10-0686,blood,beta,17,F,19,880,,SN ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-10-0687,blood,beta,17,F,19,881,,SN ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-2011-0167,blood,beta,18,M,69,1118,,R ,INT ,R ,,R ,R ,R ,,,SN ,,SN ,SN ,R ,,,INT ,R ,,,,R
+blood-2011-0238,blood,gamma,18,M,69,1140,,R ,R ,R ,,R ,R ,R ,,,R ,,SN ,SN ,R ,,,R ,R ,,,,R
+blood-2011-0240,blood,gamma,18,M,69,1139,,R ,R ,R ,,R ,R ,R ,,,R ,,SN ,SN ,R ,,,R ,R ,,,,R
+blood-09-0464,blood,gamma,19,M,66,456,,R ,R ,R ,R ,R ,R ,R ,,,SN ,,R ,SN ,R ,,,R ,R ,,,,R
+blood-9-0292,blood,gamma,19,M,66,417,,,,,,,,,,,,,,,,,,,,,,,
+blood-90543,blood,gamma,19,M,66,474,,R ,R ,R ,,R ,R ,R ,,,R ,,R ,SN ,R ,,,R ,R ,,,,R
+blood-90544,blood,gamma,19,M,66,475,,R ,R ,R ,,R ,R ,R ,,,R ,,R ,SN ,R ,,,R ,R ,,,,R
+blood-09-1294,blood,gamma,20,F,71,649,,R ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-09-1305rep1,blood,gamma,20,F,71,648,,R ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-09-1305rep2,blood,gamma,20,F,71,648,,R ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-10-0682,blood,gamma,20,F,72,879,,R ,SN ,INT ,,R ,R ,INT ,,,SN ,,INT ,SN ,R ,,,SN ,R ,,,,INT
+blood-11-0031,blood,gamma,21,F,33,1093,,SN ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-11-0041,blood,gamma,21,F,33,1095,,SN ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-08-1318,blood,gamma,22,F,64,255,,R ,SN ,SN ,,SN ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,SN ,,,,SN
+blood-08-1447,blood,gamma,22,F,64,287,,R ,SN ,SN ,,SN ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,SN ,,,,SN
+blood-09-1229,blood,gamma,23,F,67,636,,R ,SN ,SN ,,SN ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,SN ,,,,SN
+blood-09-1342,blood,gamma,23,F,67,658,,R ,SN ,SN ,,SN ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,SN ,,,,SN
+blood-10-0899rep1,blood,gamma,24,M,29,932,,R ,SN ,SN ,,SN ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,SN ,,,,SN
+blood-10-0899rep2,blood,gamma,24,M,29,932,,R ,SN ,SN ,,SN ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,SN ,,,,SN
+blood-10-0913,blood,gamma,24,M,29,934,,R ,SN ,SN ,,SN ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,SN ,,,,SN
+blood-09-0712,blood,gamma,25,M,39,520,,R ,SN ,SN ,,SN ,R ,SN ,,,SN ,,R ,SN ,R ,,,INT ,SN ,,,,SN
+blood-09-0718,blood,gamma,25,M,39,521,,R ,SN ,SN ,,SN ,R ,SN ,,,,,R ,SN ,R ,,,SN ,SN ,,,,SN
+blood-10-0541,blood,gamma,26,F,85,846,,R ,R ,R ,,R ,R ,SN ,,,SN ,,SN ,SN ,R ,,,R ,R ,,,,R
+blood-10-0554,blood,gamma,26,F,85,848,,R ,R ,R ,,R ,R ,R ,,,SN ,,SN ,SN ,R ,,,R ,R ,,,,R
+blood-10-0183,blood,gamma,27,M,78,761,,R ,SN ,SN ,SN ,SN ,SN ,SN ,,,SN ,,SN ,SN ,SN ,,,SN ,INT ,,,,SN
+blood-10-180,blood,gamma,27,M,78,760,,R ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,R ,,,,SN
+blood-08-1414,blood,gamma,28,M,24,282,,R ,INT ,INT ,,R ,SN ,INT ,,,SN ,,SN ,SN ,SN ,,,INT ,R ,,,,SN
+blood-08-1420,blood,gamma,28,M,24,283,,R ,INT ,INT ,,R ,SN ,R ,,,SN ,,SN ,SN ,SN ,,,INT ,R ,,,,INT
+blood-09-0074,blood,gamma,29,M,61,368,,R ,SN ,SN ,,R ,R ,SN ,,,SN ,,R ,SN ,R ,,,SN ,R ,,,,SN
+blood-09-0341,blood,gamma,29,M,61,424,,R ,SN ,SN ,,INT ,R ,SN ,,,,,R ,SN ,R ,,,SN ,INT ,,,,SN
+blood-09-0450,blood,gamma,29,M,61,452,,R ,SN ,SN ,,INT ,R ,SN ,,,SN ,,R ,SN ,R ,,,SN ,INT ,,,,SN
+blood-09-0558,blood,gamma,29,M,61,477,,R ,SN ,SN ,,SN ,R ,SN ,,,,,R ,SN ,R ,,,SN ,SN ,,,R ,SN
+blood-90145,blood,gamma,29,M,61,386,,R ,SN ,SN ,,SN ,R ,SN ,,,,,R ,SN ,R ,,,SN ,INT ,,,,SN
+blood-08-0921,blood,gamma,30,F,61,167,,R ,SN ,SN ,,R ,R ,SN ,,,,,SN ,SN ,R ,,,INT ,R ,,,,SN
+blood-10-0033,blood,gamma,30,F,63,726,,R ,SN ,SN ,,R ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,R ,,,,SN
+blood-10-1105,blood,gamma,31,F,47,974,,R ,SN ,SN ,,SN ,SN ,SN ,,,SN ,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-10-1126,blood,gamma,31,F,47,975,,R ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-08-0493,blood,beta,32,M,61,77,,SN ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-08-0654,blood,beta,32,M,61,109,,SN ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-10-0038,blood,gamma,33,F,50,724,,R ,R ,R ,,R ,R ,R ,,,SN ,,R ,SN ,R ,,,R ,R ,,,,R
+blood-10-0040,blood,gamma,33,F,50,725,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,,SN ,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-10-0065,blood,gamma,33,F,50,725,,SN ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-08-1415,blood,gamma,34,F,55,283,,INT ,SN ,SN ,,SN ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,R ,,,,SN
+blood-08-1636,blood,gamma,34,F,55,332,,SN ,SN ,SN ,,SN ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,SN ,,,,SN
+blood-09-0012,blood,gamma,35,F,43,357,,R ,SN ,SN ,,SN ,SN ,SN ,,,SN ,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-09-0023rep1,blood,gamma,35,F,43,358,,R ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-09-0023rep2,blood,gamma,35,F,43,358,,R ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-08-0094,blood,gamma,36,M,33,4,,R ,R ,R ,,R ,R ,SN ,,,,,R ,SN ,R ,,,R ,R ,,SN ,,R
+blood-09-0767,blood,gamma,37,F,62,534,,SN ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-09-1545,blood,gamma,38,M,49,713,,R ,SN ,SN ,,SN ,R ,SN ,,,,,R ,SN ,R ,,,SN ,R ,,,,SN
+blood-B11-136,blood,gamma,39,M,61,1165,,,,,,,,,,,,,,,,,,,,,,,
+blood-09-0768,blood,gamma,40,M,63,534,,R ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-2011-0141,blood,gamma,41,F,56,1112,,R ,SN ,SN ,,INT ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,SN ,,,,SN
+blood-08-0379,blood,beta,42,M,55,57,,R ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,INT ,,,,SN
+blood-08-0081,blood,gamma,43,M,0,0,,R ,SN ,SN ,,R ,SN ,SN ,,,,,R ,SN ,SN ,,,SN ,R ,,,,SN
+blood-08-0215,blood,beta,44,F,81,29,,SN ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,SN ,,,,SN
+blood-11-0067,blood,gamma,45,F,61,1098,,R ,SN ,SN ,,INT ,R ,SN ,,,,,SN ,SN ,R ,,,SN ,SN ,,,,SN
+blood-09-0751,blood,beta,46,F,80,532,,R ,SN ,SN ,,SN ,SN ,SN ,,,,,SN ,SN ,SN ,,,SN ,INT ,,,,SN
+blood-11-0068,blood,gamma,47,F,55,1098,,R ,SN ,SN ,,INT ,R ,SN ,,,SN ,,SN ,SN ,R ,,,SN ,SN ,,,,SN
+upec-138,urine,Gamma,47,F,73,1408,,R ,SN ,SN ,SN ,R ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,R ,R ,,,SN
+upec-204,urine,beta,48,F,30,1426,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-145,urine,Gamma,49,F,78,1410,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,R ,,,SN
+upec-31,urine,Gamma,50,F,46,1348,,R ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,SN ,,,SN
+upec-251,urine,beta,51,F,54,1451,,R ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,R ,SN ,,,SN
+upec-163,urine,Gamma,52,F,55,1416,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-278,urine,gamma,53,F,19,1469,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-19,urine,Beta,54,F,30,1345,,R ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,R ,SN ,,,SN
+upec-36,urine,Beta,55,M,57,1349,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,SN ,,,SN
+upec-194,urine,gamma ,56,F,48,1422,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-176,urine,Gamma,57,F,78,1422,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-259,urine,gamma,58,F,49,1463,SN ,R ,SN ,SN ,SN ,INT ,R ,SN ,SN ,SN ,SN ,SN ,R ,,R ,SN ,R ,SN ,INT ,SN ,,INT ,SN
+upec-250,urine,gamma,59,F,41,1451,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,R ,,,SN
+upec-72,urine,Gamma,60,F,21,1368,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-181,urine,Gamma,61,F,50,1422,,R ,SN ,SN ,SN ,INT ,R ,SN ,SN ,SN ,SN ,SN ,SN ,,R ,SN ,R ,SN ,INT ,SN ,,,SN
+upec-123,urine,Beta,62,F,22,1406,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-279,urine,gamma,63,F,52,1469,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-244,urine,beta,64,M,0,1445,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-276,urine,gamma,65,F,44,1469,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-20,urine,Gamma,66,F,38,1345,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-81,urine,Gamma,67,F,24,1371,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-26,urine,Beta,68,F,55,1346,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-102,urine,Gamma,69,F,46,1388,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-134,urine,Gamma,70,F,64,1408,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,R ,,,SN
+upec-241,urine,gamma,71,F,74,1445,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-93,urine,Beta,72,F,73,1384,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-94,urine,Gamma,72,F,73,1384,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-156,urine,Gamma,73,F,9,1415,,R ,SN ,SN ,SN ,INT ,R ,SN ,SN ,R ,SN ,SN ,SN ,,R ,SN ,R ,SN ,INT ,R ,,,SN
+upec-76,urine,Beta,74,F,75,1369,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-253,urine,beta,75,F,19,1451,,R ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,R ,SN ,,,SN
+upec-157,urine,Gamma,76,F,70,1415,,R ,SN ,SN ,SN ,INT ,R ,SN ,SN ,SN ,SN ,SN ,SN ,,R ,SN ,R ,SN ,INT ,SN ,,,SN
+upec-150,urine,Gamma,77,F,56,1414,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-158,urine,Gamma,77,F,56,1416,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-207,urine,gamma,78,F,46,1428,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,R ,,,SN
+upec-144,urine,Gamma,79,F,29,1410,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,R ,SN ,INT ,SN ,,,SN
+upec-222,urine,gamma,80,F,65,1438,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-179,urine,Gamma,81,F,24,1422,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-125,urine,Gamma,82,F,32,1406,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-128,urine,Beta,82,F,32,1406,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-118,urine,Gamma,83,M,69,1406,SN ,R ,SN ,SN ,SN ,R ,R ,SN ,SN ,SN ,SN ,SN ,R ,,R ,SN ,R ,SN ,INT ,SN ,,R ,SN
+upec-285,urine,beta,84,M,90+,1471,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-116,urine,Gamma,85,F,22,1405,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-117,urine,Beta,86,F,21,1406,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-132,urine,Gamma,87,F,18,1408,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-100,urine,Gamma,88,M,56,1383,SN ,R ,INT ,INT ,SN ,R ,R ,SN ,R ,R ,SN ,SN ,R ,,R ,SN ,R ,SN ,R ,R ,,R ,R
+upec-268,urine,beta,89,F,60,1467,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-83,urine,Gamma,90,F,34,1376,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-108,urine,Beta,91,F,6,1399,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,R ,,,SN
+upec-177,urine,Beta,92,F,59,1422,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-56,urine,Gamma,93,F,68,1359,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,R ,,,SN
+upec-105,urine,Gamma,94,M,52,1391,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-246,urine,gamma,95,F,90+,1447,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-206,urine,gamma,96,F,43,1428,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,SN ,,,SN
+upec-86,urine,Beta,97,F,24,1376,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-165,urine,Gamma,98,F,49,1415,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-174,urine,Gamma,99,F,90+,1422,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-27,urine,Gamma,100,F,72,1346,,R ,SN ,SN ,SN ,R ,SN ,SN ,SN ,INT ,SN ,SN ,R ,,SN ,SN ,SN ,SN ,R ,R ,,SN ,SN
+upec-88,urine,Gamma,100,F,72,1376,SN ,R ,SN ,SN ,SN ,R ,SN ,SN ,SN ,INT ,SN ,SN ,R ,SN ,SN ,,SN ,SN ,R ,R ,,INT ,SN
+upec-131,urine,Beta,101,F,19,1408,,R ,SN ,SN ,SN ,R ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,SN ,,,SN
+upec-113,urine,Gamma,102,F,31,1404,SN ,R ,SN ,SN ,SN ,R ,R ,SN ,SN ,INT ,SN ,SN ,SN ,,R ,SN ,R ,SN ,R ,R ,,,INT
+upec-230,urine,beta,103,M,54,1442,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,R ,,,SN
+upec-103,urine,Beta,104,F,35,1388,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-275,urine,gamma,105,F,75,1469,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-85,urine,Beta,106,M,51,1376,,R ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,R ,SN ,,,SN
+upec-170,urine,Gamma,107,F,22,1419,,R ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,R ,SN ,,,SN
+upec-29,urine,Gamma,108,F,41,1347,,R ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,R ,,,SN
+upec-70,urine,Gamma,109,F,33,1368,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-69,urine,Gamma,110,F,63,1368,SN ,R ,SN ,SN ,SN ,SN ,R ,SN ,SN ,INT ,SN ,SN ,R ,,R ,SN ,R ,SN ,INT ,R ,,INT ,SN
+upec-45,urine,Gamma,111,F,58,1353,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-245,urine,gamma,112,F,73,1445,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-11,urine,Gamma,113,F,34,1340,,R ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,R ,,,SN
+upec-212,urine,gamma,114,M,83,1430,,R ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,SN ,INT ,SN ,,R ,SN ,R ,SN ,INT ,SN ,,,SN
+upec-90,urine,Gamma,115,M,44,1377,,R ,SN ,SN ,SN ,INT ,R ,SN ,SN ,SN ,SN ,SN ,SN ,,R ,SN ,R ,SN ,INT ,R ,,,SN
+upec-284,urine,gamma,116,F,83,1471,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-148,urine,Gamma,117,F,73,1413,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-78,urine,Gamma,118,F,87,1369,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-5,urine,Gamma,119,F,67,1338,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-37,urine,Gamma,120,F,23,1349,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-187,urine,Gamma,121,M,36,1423,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-188,urine,Gamma,122,M,40,1423,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-68,urine,Gamma,123,F,48,1368,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-248,urine,gamma,124,F,84,1448,SN ,R ,SN ,SN ,SN ,INT ,R ,SN ,SN ,SN ,SN ,SN ,R ,,R ,SN ,R ,SN ,INT ,SN ,,R ,SN
+upec-235,urine,beta,125,F,61,1444,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-9,urine,Gamma,126,F,41,1340,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-223,urine,gamma,127,F,52,1438,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-104,urine,Gamma,128,F,64,1389,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,R ,,,SN
+upec-205,urine,gamma,129,F,43,1426,,SN ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,SN ,SN ,SN ,,R ,SN ,R ,SN ,SN ,R ,,,SN
+upec-262,urine,beta,130,F,42,1465,,INT ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,R ,,,SN
+upec-192,urine,Gamma,131,F,86,1423,SN ,R ,SN ,SN ,SN ,SN ,R ,SN ,SN ,R ,SN ,SN ,R ,,R ,SN ,R ,SN ,INT ,R ,,INT ,SN
+upec-58,urine,Gamma,132,F,26,1359,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-189,urine,Gamma,133,F,35,1423,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,R ,,,SN
+upec-22,urine,Gamma,134,F,56,1346,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-48,urine,Gamma,135,M,68,1356,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-217,urine,beta,136,F,21,1431,,R ,,,,SN ,SN ,SN ,,SN ,,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,
+upec-6,urine,Gamma,137,F,27,1338,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-257,urine,gamma,138,F,33,1453,,R ,SN ,SN ,SN ,SN ,R ,SN ,SN ,R ,SN ,SN ,SN ,,R ,SN ,R ,SN ,SN ,R ,,,SN
+upec-169,urine,Beta,139,F,64,1418,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-190,urine,Gamma,140,F,64,1423,SN ,R ,R ,R ,SN ,R ,R ,SN ,R ,SN ,SN ,SN ,R ,,R ,SN ,R ,SN ,INT ,R ,,R ,R
+upec-49,urine,Beta,141,M,59,1357,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,SN ,,,SN
+upec-152,urine,Gamma,142,F,65,1413,SN ,R ,SN ,SN ,SN ,R ,R ,SN ,R ,R ,SN ,SN ,R ,,R ,SN ,R ,SN ,R ,R ,,INT ,R
+upec-239,urine,gamma,143,M,31,1444,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,R ,,,SN
+upec-82,urine,Gamma,144,F,45,1375,,R ,SN ,SN ,SN ,R ,R ,SN ,R ,R ,SN ,SN ,SN ,,INT ,SN ,R ,SN ,R ,R ,,,R
+upec-197,urine,gamma ,145,F,51,1423,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,SN ,,,SN
+upec-62,urine,Beta,146,F,20,1365,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-126,urine,Gamma,147,M,0,1407,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,SN ,,,SN
+upec-186,urine,Gamma,148,F,38,1423,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-193,urine,beta,149,F,66,1423,,R ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,R ,R ,,,SN
+upec-224,urine,gamma,150,F,22,1440,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-4,urine,Gamma,151,F,55,1337,,SN ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,SN ,SN ,SN ,,R ,SN ,R ,SN ,SN ,SN ,,,SN
+upec-228,urine,gamma,152,F,85,1440,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-61,urine,Gamma,153,F,66,1359,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-221,urine,gamma,154,F,76,1438,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-249,urine,gamma,155,F,7,1447,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-2,urine,Gamma,156,F,27,1337,SN ,R ,R ,INT ,INT ,R ,R ,SN ,R ,R ,SN ,INT ,SN ,,R ,SN ,R ,SN ,R ,R ,,,R
+upec-16,urine,Beta,157,M,45,1345,,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-155,urine,Gamma,158,M,54,1415,SN ,R ,SN ,SN ,SN ,R ,R ,SN ,SN ,INT ,SN ,SN ,R ,,R ,SN ,R ,SN ,SN ,R ,,R ,SN
+upec-110,urine,Gamma,159,F,21,1400,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-124,urine,Gamma,160,M,58,1406,,R ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,R ,,,SN
+upec-127,urine,Gamma,160,M,58,1406,SN ,R ,SN ,SN ,SN ,INT ,R ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,R ,SN ,INT ,SN ,,,R
+upec-66,urine,Gamma,161,F,48,1368,SN ,R ,SN ,SN ,SN ,INT ,R ,SN ,SN ,R ,SN ,SN ,R ,,R ,SN ,R ,SN ,INT ,R ,,INT ,SN
+upec-44,urine,Gamma,162,F,19,1352,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,R ,,,SN
+upec-266,urine,gamma,163,F,20,1467,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-17,urine,Beta,164,F,24,1345,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,SN ,,,SN
+upec-87,urine,Gamma,165,F,20,1376,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,R ,,,SN
+upec-41,urine,Gamma,166,F,63,1351,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-1,urine,Gamma,167,F,70,1337,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-67,urine,Gamma,168,F,60,1367,,R ,SN ,SN ,SN ,R ,R ,SN ,R ,INT ,SN ,SN ,SN ,,R ,SN ,R ,SN ,SN ,R ,,,R
+upec-151,urine,Beta,169,F,74,1414,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-282,urine,gamma,170,F,21,1471,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-173,urine,Gamma,171,F,89,1421,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-198,urine,beta,172,M,61,1422,SN ,R ,R ,INT ,SN ,R ,R ,SN ,R ,R ,SN ,SN ,R ,,R ,SN ,R ,SN ,INT ,R ,,R ,R
+upec-46,urine,Gamma,173,F,23,1352,,R ,SN ,SN ,SN ,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,R ,R ,,,SN
+upec-21,urine,Gamma,174,F,4,1345,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-288,urine,beta,175,F,74,1471,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-55,urine,Gamma,176,F,83,1359,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,SN ,,,SN
+upec-65,urine,Beta,177,F,18,1369,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-129,urine,Gamma,178,F,54,1407,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-95,urine,Gamma,179,F,63,1384,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-258,urine,gamma,180,F,21,1453,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,SN ,,,SN
+upec-274,urine,gamma,181,F,89,1469,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-59,urine,Gamma,182,F,15,1360,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-25,urine,Gamma,183,F,84,1346,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-162,urine,Gamma,184,F,33,1416,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-122,urine,Gamma,185,F,38,1406,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,R ,,,SN
+upec-208,urine,gamma,186,F,22,1428,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-153,urine,Gamma,187,F,53,1413,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-225,urine,beta,188,M,49,1440,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-91,urine,Beta,189,M,25,1377,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-219,urine,gamma,190,F,82,1437,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-39,urine,Beta,191,F,73,1350,,R ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,R ,SN ,,,SN
+upec-213,urine,gamma,192,F,58,1429,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,R ,SN ,SN ,SN ,,,SN
+upec-264,urine,gamma,193,F,69,1467,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-135,urine,Gamma,194,F,77,1408,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-237,urine,beta,195,F,57,1443,,R ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,R ,SN ,,,SN
+upec-240,urine,beta,196,F,70,1444,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-146,urine,Gamma,197,F,73,1410,SN ,R ,INT ,SN ,SN ,R ,R ,SN ,R ,SN ,SN ,SN ,R ,,R ,SN ,R ,SN ,INT ,SN ,,R ,R
+upec-267,urine,beta,198,F,29,1468,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-3,urine,Gamma,199,F,42,1337,,R ,SN ,SN ,SN ,R ,R ,SN ,R ,R ,SN ,SN ,SN ,,R ,SN ,R ,SN ,R ,R ,,,R
+upec-227,urine,gamma,200,M,63,1442,SN ,R ,SN ,SN ,SN ,R ,R ,SN ,SN ,INT ,SN ,SN ,R ,,R ,SN ,R ,INT ,R ,R ,,R ,SN
+upec-160,urine,Beta,201,F,51,1416,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-238,urine,gamma,202,F,49,1444,,SN ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,SN ,SN ,SN ,,R ,SN ,R ,SN ,SN ,R ,,,SN
+upec-79,urine,Beta,203,F,82,1370,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-77,urine,Gamma,204,F,40,1369,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,SN ,,,SN
+upec-234,urine,gamma,205,F,54,1444,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,R ,,,SN
+upec-182,urine,Gamma,206,F,37,1423,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,R ,,,SN
+upec-111,urine,Beta,207,F,23,1400,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-280,urine,gamma,208,F,20,1471,,R ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,R ,SN ,,,SN
+upec-270,urine,gamma,209,F,20,1468,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-200,urine,gamma,210,F,39,1424,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,R ,,,SN
+upec-34,urine,Gamma,211,F,18,1349,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-8,urine,Gamma,212,F,34,1341,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-119,urine,Gamma,213,F,75,1406,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-89,urine,Gamma,214,F,43,1377,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-137,urine,Gamma,215,F,35,1408,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-161,urine,Gamma,216,F,27,1415,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-133,urine,Beta,217,F,21,1408,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-7,urine,Gamma,217,F,21,1341,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,SN ,,,SN
+upec-269,urine,gamma,218,F,67,1469,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-13,urine,Gamma,219,M,2,1340,,R ,SN ,SN ,SN ,R ,R ,SN ,SN ,SN ,SN ,SN ,SN ,,R ,SN ,R ,SN ,R ,SN ,,,SN
+upec-147,urine,Gamma,220,F,90+,1413,,SN ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,SN ,SN ,SN ,,R ,SN ,R ,SN ,SN ,SN ,,,SN
+upec-10,urine,Gamma,221,F,32,1341,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,R ,,,SN
+upec-42,urine,Gamma,221,F,32,1352,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,R ,,,SN
+upec-171,urine,Gamma,222,F,33,1419,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,R ,,,SN
+upec-28,urine,Beta,223,F,26,1347,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,R ,,,SN
+upec-231,urine,gamma,224,F,72,1441,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-220,urine,gamma,225,M,83,1437,SN ,R ,SN ,SN ,SN ,R ,R ,SN ,SN ,INT ,SN ,SN ,R ,,R ,SN ,R ,SN ,R ,R ,,INT ,SN
+upec-136,urine,Beta,226,F,64,1408,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-218,urine,beta,227,F,27,1437,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-96,urine,Gamma,228,F,21,1385,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,R ,,,SN
+upec-18,urine,Beta,229,F,32,1345,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-159,urine,Gamma,230,F,36,1416,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-286,urine,gamma,231,F,69,1471,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,R ,,,SN
+upec-47,urine,Gamma,232,F,73,1353,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,R ,R ,,,SN
+upec-271,urine,gamma,233,F,20,1469,SN ,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,INT ,SN ,SN ,R ,,SN ,SN ,SN ,SN ,INT ,R ,,R ,SN
+upec-195,urine,gamma ,234,F,90+,1423,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-121,urine,Beta,235,F,19,1406,,R ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,R ,SN ,,,SN
+upec-210,urine,beta,236,F,47,1429,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,R ,,,SN
+upec-142,urine,Gamma,237,F,64,1409,SN ,R ,SN ,SN ,SN ,INT ,R ,SN ,SN ,R ,SN ,SN ,R ,,R ,SN ,R ,INT ,R ,R ,,R ,SN
+upec-143,urine,Gamma,237,F,64,1409,SN ,R ,SN ,SN ,SN ,INT ,R ,SN ,SN ,R ,SN ,SN ,R ,,R ,SN ,R ,INT ,R ,R ,,R ,SN
+upec-196,urine,gamma ,238,F,64,1423,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-40,urine,Beta,239,F,48,1350,,R ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-115,urine,Gamma,240,F,13,1405,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-283,urine,gamma,241,M,86,1466,,R ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,R ,,,SN
+upec-229,urine,beta,242,F,28,1440,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-63,urine,Gamma,243,M,51,1363,,R ,SN ,SN ,SN ,INT ,R ,SN ,SN ,R ,SN ,INT ,SN ,,R ,SN ,R ,SN ,INT ,R ,,,SN
+upec-99,urine,Beta,244,F,31,1386,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-260,urine,beta,245,F,50,1461,SN ,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,R ,,SN ,SN ,SN ,SN ,SN ,SN ,,INT ,SN
+upec-261,urine,beta,245,F,50,1461,SN ,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,R ,,SN ,SN ,SN ,SN ,SN ,SN ,,R ,SN
+upec-101,urine,Gamma,246,F,46,1388,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-53,urine,Beta,247,F,42,1358,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,R ,,,SN
+upec-15,urine,Gamma,248,F,86,1340,,R ,SN ,SN ,SN ,INT ,R ,SN ,SN ,SN ,SN ,SN ,SN ,,R ,SN ,R ,SN ,INT ,SN ,,,SN
+upec-232,urine,beta,249,F,30,1440,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-130,urine,Gamma,250,M,42,1406,,SN ,SN ,SN ,SN ,INT ,R ,SN ,SN ,SN ,SN ,SN ,SN ,,R ,SN ,R ,SN ,SN ,SN ,,,SN
+upec-289,urine,gamma,251,F,21,1471,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-287,urine,beta,252,F,21,1471,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-73,urine,Gamma,253,F,10,1368,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-75,urine,Gamma,254,M,51,1368,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-52,urine,Beta,255,F,45,1357,,R ,SN ,SN ,SN ,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,SN ,,,SN
+upec-141,urine,Gamma,256,M,54,1411,SN ,R ,SN ,SN ,SN ,R ,R ,SN ,SN ,INT ,SN ,SN ,SN ,,R ,SN ,R ,SN ,R ,R ,,,SN
+upec-242,urine,gamma,257,F,54,1445,,R ,SN ,SN ,SN ,R ,R ,SN ,SN ,SN ,SN ,SN ,SN ,,R ,SN ,R ,SN ,R ,SN ,,,SN
+upec-265,urine,gamma,258,F,0,1467,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-233,urine,beta,259,F,1,1444,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,R ,,,SN
+upec-185,urine,Gamma,260,F,86,1423,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-98,urine,Gamma,261,F,69,1384,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,R ,SN ,,SN ,SN ,SN ,SN ,INT ,R ,,,SN
+upec-166,urine,Beta,262,F,21,1415,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-215,urine,gamma,263,M,89,1430,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-167,urine,Gamma,264,F,20,1415,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-256,urine,gamma,265,F,31,1452,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,R ,,,SN
+upec-114,urine,Gamma,266,F,38,1404,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-243,urine,beta,267,F,65,1445,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-139,urine,Gamma,268,F,48,1408,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-120,urine,Beta,269,F,53,1406,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-247,urine,gamma,270,F,58,1448,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-50,urine,Gamma,271,F,22,1357,,SN ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,SN ,SN ,SN ,,R ,SN ,R ,SN ,SN ,SN ,,,SN
+upec-80,urine,Beta,272,F,68,1371,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-30,urine,Gamma,273,M,88,1347,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-23,urine,Gamma,274,F,45,1345,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-24,urine,Gamma,274,F,45,1345,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-168,urine,Gamma,275,F,69,1415,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-216,urine,beta,276,F,37,1430,,INT ,SN ,SN ,SN ,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,,SN ,,SN ,SN
+upec-180,urine,Beta,277,F,44,1422,,R ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,R ,SN ,,,SN
+upec-175,urine,Gamma,278,F,50,1422,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-209,urine,gamma,279,F,22,1429,,R ,SN ,SN ,SN ,,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,R ,,,SN
+upec-74,urine,Gamma,280,F,66,1369,,R ,SN ,SN ,SN ,INT ,R ,SN ,SN ,R ,SN ,SN ,SN ,,R ,SN ,R ,SN ,INT ,R ,,,SN
+upec-64,urine,Beta,281,F,62,1363,,R ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,R ,SN ,INT ,R ,,,SN
+upec-226,urine,beta,282,F,39,1440,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,R ,,,SN
+upec-252,urine,gamma,283,F,58,1451,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-84,urine,Beta,284,F,87,1376,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-71,urine,Gamma,285,F,22,1368,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-149,urine,Beta,286,F,38,1413,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-202,urine,gamma,287,F,74,1425,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-273,urine,gamma,287,F,75,1469,INT ,R ,R ,R ,INT ,R ,R ,SN ,R ,R ,SN ,SN ,R ,,R ,SN ,R ,R ,R ,R ,,R ,R
+upec-263,urine,gamma,288,F,56,1466,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-35,urine,Gamma,289,F,83,1349,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,R ,,,SN
+upec-51,urine,Gamma,290,F,26,1358,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-214,urine,gamma,291,F,19,1430,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,SN ,,,SN
+upec-140,urine,Gamma,292,F,36,1408,,R ,SN ,SN ,SN ,R ,R ,SN ,SN ,R ,SN ,SN ,SN ,,R ,SN ,R ,SN ,R ,R ,,,SN
+upec-54,urine,Beta,293,F,37,1359,SN ,R ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,SN ,SN ,SN ,R ,,SN ,SN ,SN ,SN ,SN ,SN ,,R ,SN
+upec-178,urine,Gamma,294,F,61,1422,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,R ,,,SN
+upec-201,urine,beta,295,F,77,1425,,INT ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-172,urine,Beta,296,F,36,1420,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,SN ,,,SN
+upec-255,urine,gamma,297,F,82,1453,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-236,urine,gamma,298,F,26,1444,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-191,urine,Gamma,299,F,67,1423,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-281,urine,gamma,300,F,21,1471,SN ,R ,SN ,SN ,SN ,INT ,R ,SN ,SN ,SN ,SN ,SN ,R ,,R ,SN ,R ,SN ,INT ,SN ,,R ,SN
+upec-254,urine,gamma,301,F,55,1451,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,R ,SN ,INT ,SN ,,,SN
+upec-106,urine,Beta,302,F,64,1391,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-38,urine,Beta,303,M,76,1349,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-32,urine,Gamma,304,F,24,1348,,R ,SN ,SN ,SN ,R ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,R ,R ,,,SN
+upec-183,urine,Gamma,305,F,35,1422,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-184,urine,Gamma,306,F,61,1422,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-12,urine,Beta,307,F,28,1340,,INT ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-57,urine,Gamma,308,M,76,1359,,R ,SN ,SN ,SN ,INT ,R ,SN ,SN ,SN ,SN ,SN ,SN ,,R ,SN ,R ,SN ,INT ,SN ,,,SN
+upec-97,urine,Gamma,309,F,27,1384,,R ,SN ,SN ,SN ,R ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,R ,R ,R ,,,SN
+upec-14,urine,Beta,310,M,71,1340,,R ,SN ,SN ,SN ,R ,SN ,SN ,SN ,INT ,SN ,SN ,SN ,,SN ,SN ,SN ,,R ,SN ,,,
+upec-112,urine,Gamma,311,M,27,1400,,R ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,SN ,SN ,SN ,,R ,SN ,R ,SN ,SN ,SN ,,,SN
+upec-154,urine,Beta,312,F,27,1415,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-109,urine,Beta,313,F,43,1399,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,SN ,,,SN
+upec-203,urine,gamma,314,F,22,1425,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,R ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,R ,,,SN
+upec-33,urine,Gamma,315,F,19,1349,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-92,urine,Gamma,316,F,50,1377,,R ,SN ,SN ,SN ,R ,R ,SN ,SN ,R ,SN ,SN ,SN ,,R ,SN ,R ,SN ,INT ,R ,,,SN
+upec-211,urine,gamma,317,F,38,1429,,R ,R ,R ,SN ,R ,R ,R ,R ,R ,SN ,INT ,SN ,,R ,SN ,R ,SN ,R ,R ,,,R
+upec-43,urine,Gamma,318,F,25,1352,,R ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,INT ,SN ,,,SN
+upec-277,urine,gamma,319,F,28,1469,,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,SN ,,SN ,SN ,SN ,SN ,SN ,SN ,,,SN
+upec-107,urine,Gamma,ND,ND,ND,ND,,,,,,,,,,,,,,,,,,,,,,,
+upec-164,urine,Gamma,ND,ND,ND,ND,,,,,,,,,,,,,,,,,,,,,,,
+upec-199,urine,gamma ,ND,ND,ND,ND,,,,,,,,,,,,,,,,,,,,,,,
+upec-60,urine,Beta,ND,ND,ND,ND,,,,,,,,,,,,,,,,,,,,,,,

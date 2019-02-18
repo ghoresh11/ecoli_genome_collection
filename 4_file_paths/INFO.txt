@@ -1,0 +1,6 @@
+﻿In order to find all the file paths,
+the script "find file paths" must be in the same directory with dirs.py
+and the metadata file that has the accessions of the read files.
+
+It will look for an assembly file in one of the directories and
+add that path to the metadata file if that file is found

@@ -1,0 +1,14 @@
+Things that need to be run for QC:
+
+1. Beep (BIN):
+- removes too many contigs
+- removes wrong lengths
+- removes according to mash distance of species cutoff
+
+2. Use Kraken outputs to remove isolates that are likely not E. coli
+
+3. Use quality control outputs to check how many reads were mapped,
+see the distribution and choose what to remove
+
+4. heterozigosity percent (would show two alleles in one place suggesting there is a contamination)
+Also look at the distribution and decide what to remove

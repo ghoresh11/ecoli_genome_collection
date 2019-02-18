@@ -1,0 +1,19 @@
+This is the output of running the "bin" command to apply
+MASH to filter out
+1. Genomes that are probably not from the same species
+2. Genomes with two many contigs
+3. Genomes that have lengths that vary too much from the expected length
+of an E. coli genome
+
+I applied beep bin twice (on the GFF files and ASSEMBLIES)
+I should be getting equivalent outputs.
+
+The params: 
+max_contigs = 600
+min_length = 4MBP
+max_length = 6MBP
+species_cutoff = 0.04
+distance = 0.005
+
+The number of genomes in the "gff" file is how many I started with
+Remove contaminants (not correct species) and qc (number of contigs/length wrong)
