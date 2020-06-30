@@ -1,6 +1,0 @@
-E. coli raw read sequences run IDs were extracted from the metadata file 
- from the ftp server NCBI’s Pathogen Detection portal 
- (https://www.ncbi.nlm.nih.gov/pathogens/ , 
- ftp://ftp.ncbi.nlm.nih.gov/pathogen/Results/Escherichia_coli_Shigella/PDG000000004.1002/Metadata/) 
- on September 19th, 2018. These were filtered to include only 
- clinical isolates ending with a collection contained 24,035 raw read sequences.

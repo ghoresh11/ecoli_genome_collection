@@ -1,8 +1,0 @@
-All E coli strains were downloaded from enterobase on July 25th, 2018 with
-the following conditions:
-
-Species contains “coli”
-Number of contigs is smaller than 500
-Genome length shorter than 6,000,000
-
-Total number of sequences:  58,810

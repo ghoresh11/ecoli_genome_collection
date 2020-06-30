@@ -1,7 +1,0 @@
-PHE's bioproject for surveillance of E. colis and Shigella:
-
-https://www.ncbi.nlm.nih.gov/bioproject/315192
-
-All biosample IDs were downloaded on September 17th, 2018
-Original number of reads included 11,120 genomes
-Of those, only 6,589 genomes are E. coli genomes

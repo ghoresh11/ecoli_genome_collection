@@ -1,6 +1,0 @@
-Id=ADUL01000000:	No items found.
-Id=AAJT02000000:	No items found.
-Id=SRS085190:	No items found.
-Id=NC017626:	No items found.
-Id=AFOG01000000:	No items found.
-Id=NC007946:	No items found.
