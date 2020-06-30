@@ -12,3 +12,5 @@ see the distribution and choose what to remove
 
 4. heterozigosity percent (would show two alleles in one place suggesting there is a contamination)
 Also look at the distribution and decide what to remove
+
+5. Use the information of the number of predicted genes to filter bad GFF files
