@@ -5,23 +5,23 @@ As of today, there are more than 140,000 E. coli genomes available on public dat
 
 Data Summary
 
-1.	The complete aggregated metadata of 10,146 high quality genomes isolated from human hosts (doi.org/10.6084/m9.figshare.12514883, File F1).
+1.	The complete aggregated metadata of 10,146 high quality genomes isolated from human hosts (https://figshare.com/s/f1c581d39b3d1dbd0091, File F1).
 
 2.	A PopPUNK database which can be used to query any genome and examine its context relative to this collection (Deposited to doi.org/10.6084/m9.figshare.12650834).
 
 3.	A BIGSI index of all the genomes which can be used to easily and quickly query the genomes for any DNA sequence of 61 bp or longer (Deposited to doi.org/10.6084/m9.figshare.12666497).
 
-4.	Description and complete profiling the 50 largest lineages which represent the majority of publicly available human-isolated E. coli genomes (doi.org/10.6084/m9.figshare.12514883, File F2). Phylogenetic trees of representative genomes of these lineages, presented in this manuscript, are also provided (doi.org/10.6084/m9.figshare.12514883, Files tree_500.nwk and tree_50.nwk).
+4.	Description and complete profiling the 50 largest lineages which represent the majority of publicly available human-isolated E. coli genomes (https://figshare.com/s/f1c581d39b3d1dbd0091, , File F2). Phylogenetic trees of representative genomes of these lineages, presented in this manuscript, are also provided (https://figshare.com/s/f1c581d39b3d1dbd0091,, Files tree_500.nwk and tree_50.nwk).
 
 5.	The complete pan-genome of the 50 largest lineages which includes:
 
-a.	A FASTA file containing a single representative sequence of each gene of the gene pool (doi.org/10.6084/m9.figshare.12514883, File F3).
+a.	A FASTA file containing a single representative sequence of each gene of the gene pool (https://figshare.com/s/f1c581d39b3d1dbd0091, File F3).
 
-b.	Complete gene presence-absence across all isolates (doi.org/10.6084/m9.figshare.12514883, File F4).
+b.	Complete gene presence-absence across all isolates (https://figshare.com/s/f1c581d39b3d1dbd0091, File F4).
 
-c.	The frequency of each gene within each of the lineages (doi.org/10.6084/m9.figshare.12514883, File F5).
+c.	The frequency of each gene within each of the lineages (https://figshare.com/s/f1c581d39b3d1dbd0091, File F5).
 
-d.	The representative sequences from each lineage for all the genes (doi.org/10.6084/m9.figshare.12514883, File F6). 
+d.	The representative sequences from each lineage for all the genes (https://figshare.com/s/f1c581d39b3d1dbd0091, File F6). 
 
 
 ## bioRxiv Publication
